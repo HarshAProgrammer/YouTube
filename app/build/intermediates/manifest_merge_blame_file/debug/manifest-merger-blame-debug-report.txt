@@ -1,0 +1,917 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.schabi.newpipe.debug"
+4    android:installLocation="auto"
+5    android:versionCode="975"
+6    android:versionName="0.21.9" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="19"
+10        android:targetSdkVersion="29" />
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:8:5-68
+13-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:8:22-65
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:11:5-78
+16-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:11:22-75
+17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+17-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:12:5-77
+17-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:12:22-74
+18
+19    <uses-feature
+19-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:14:5-16:36
+20        android:name="android.hardware.touchscreen"
+20-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:15:9-52
+21        android:required="false" />
+21-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:16:9-33
+22
+23    <queries>
+23-->[androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:24:5-28:15
+24        <intent>
+24-->[androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:25:9-27:18
+25            <action android:name="android.media.browse.MediaBrowserService" />
+25-->[androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:26:13-79
+25-->[androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:26:21-76
+26        </intent>
+27    </queries> <!-- To store the heap dumps and leak analysis results. -->
+28    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:23:5-80
+28-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:23:22-77
+29
+30    <application
+30-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:18:5-369:19
+31        android:name="org.schabi.newpipe.DebugApp"
+31-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:19:9-28
+32        android:allowBackup="true"
+32-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:20:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+34        android:banner="@mipmap/newpipe_tv_banner"
+34-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:21:9-51
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:22:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:23:9-41
+38        android:logo="@mipmap/ic_launcher"
+38-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:24:9-43
+39        android:resizeableActivity="true"
+39-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:26:9-42
+40        android:testOnly="true"
+41        android:theme="@style/OpeningTheme" >
+41-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:25:9-44
+42        <activity
+42-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:28:9-38:20
+43            android:name="org.schabi.newpipe.MainActivity"
+43-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:29:13-41
+44            android:label="@string/app_name"
+44-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:30:13-45
+45            android:launchMode="singleTask" >
+45-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:31:13-44
+46            <intent-filter>
+46-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:32:13-37:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:33:17-69
+47-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:33:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:35:17-77
+49-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:35:27-74
+50                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+50-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:36:17-86
+50-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:36:27-83
+51            </intent-filter>
+52        </activity>
+53
+54        <receiver android:name="androidx.media.session.MediaButtonReceiver" >
+54-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:40:9-44:20
+54-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:40:19-76
+55            <intent-filter>
+55-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:41:13-43:29
+56                <action android:name="android.intent.action.MEDIA_BUTTON" />
+56-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:42:17-77
+56-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:42:25-74
+57            </intent-filter>
+58        </receiver>
+59
+60        <service
+60-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:46:9-53:19
+61            android:name="org.schabi.newpipe.player.MainPlayer"
+61-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:47:13-46
+62            android:exported="false"
+62-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:48:13-37
+63            android:foregroundServiceType="mediaPlayback" >
+63-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:49:13-58
+64            <intent-filter>
+64-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:41:13-43:29
+65                <action android:name="android.intent.action.MEDIA_BUTTON" />
+65-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:42:17-77
+65-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:42:25-74
+66            </intent-filter>
+67        </service>
+68
+69        <activity
+69-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:55:9-58:47
+70            android:name="org.schabi.newpipe.player.PlayQueueActivity"
+70-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:56:13-53
+71            android:label="@string/title_activity_play_queue"
+71-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:57:13-62
+72            android:launchMode="singleTask" />
+72-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:58:13-44
+73        <activity
+73-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:60:9-62:48
+74            android:name="org.schabi.newpipe.settings.SettingsActivity"
+74-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:61:13-54
+75            android:label="@string/settings" />
+75-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:62:13-45
+76        <activity
+76-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:64:9-66:60
+77            android:name="org.schabi.newpipe.about.AboutActivity"
+77-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:65:13-48
+78            android:label="@string/title_activity_about" />
+78-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:66:13-57
+79
+80        <service android:name="org.schabi.newpipe.local.subscription.services.SubscriptionsImportService" />
+80-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:68:9-91
+80-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:68:18-88
+81        <service android:name="org.schabi.newpipe.local.subscription.services.SubscriptionsExportService" />
+81-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:69:9-91
+81-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:69:18-88
+82        <service android:name="org.schabi.newpipe.local.feed.service.FeedLoadService" />
+82-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:70:9-71
+82-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:70:18-68
+83
+84        <activity
+84-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:72:9-82:20
+85            android:name="org.schabi.newpipe.PanicResponderActivity"
+85-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:73:13-51
+86            android:launchMode="singleInstance"
+86-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:74:13-48
+87            android:noHistory="true"
+87-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:75:13-37
+88            android:theme="@android:style/Theme.NoDisplay" >
+88-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:76:13-59
+89            <intent-filter>
+89-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:77:13-81:29
+90                <action android:name="info.guardianproject.panic.action.TRIGGER" />
+90-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:78:17-84
+90-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:78:25-81
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+92-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+93            </intent-filter>
+94        </activity>
+95        <activity
+95-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:84:9-87:62
+96            android:name="org.schabi.newpipe.ExitActivity"
+96-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:85:13-41
+97            android:label="@string/general_error"
+97-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:86:13-50
+98            android:theme="@android:style/Theme.NoDisplay" />
+98-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:87:13-59
+99        <activity android:name="org.schabi.newpipe.error.ErrorActivity" /> <!-- giga get related -->
+99-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:88:9-57
+99-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:88:19-54
+100        <activity
+100-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:91:9-94:47
+101            android:name="org.schabi.newpipe.download.DownloadActivity"
+101-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:92:13-54
+102            android:label="@string/app_name"
+102-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:93:13-45
+103            android:launchMode="singleTask" />
+103-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:94:13-44
+104
+105        <service android:name="us.shandian.giga.service.DownloadManagerService" />
+105-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:96:9-83
+105-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:96:18-80
+106
+107        <activity
+107-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:98:9-106:20
+108            android:name="org.schabi.newpipe.util.FilePickerActivityHelper"
+108-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:99:13-58
+109            android:label="@string/app_name"
+109-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:100:13-45
+110            android:theme="@style/FilePickerThemeDark" >
+110-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:101:13-55
+111            <intent-filter>
+111-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:102:13-105:29
+112                <action android:name="android.intent.action.GET_CONTENT" />
+112-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:103:17-76
+112-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:103:25-73
+113
+114                <category android:name="android.intent.category.DEFAULT" />
+114-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+114-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+115            </intent-filter>
+116        </activity>
+117        <activity
+117-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:108:9-110:49
+118            android:name="org.schabi.newpipe.error.ReCaptchaActivity"
+118-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:109:13-52
+119            android:label="@string/recaptcha" />
+119-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:110:13-46
+120
+121        <provider
+122            android:name="androidx.core.content.FileProvider"
+123            android:authorities="org.schabi.newpipe.debug.provider"
+124            android:exported="false"
+125            android:grantUriPermissions="true" >
+126            <meta-data
+126-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:34:13-36:66
+127                android:name="android.support.FILE_PROVIDER_PATHS"
+127-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:35:17-67
+128                android:resource="@xml/nnf_provider_paths" />
+128-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:36:17-63
+129        </provider>
+130
+131        <activity
+131-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:122:9-357:20
+132            android:name="org.schabi.newpipe.RouterActivity"
+132-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:123:13-43
+133            android:excludeFromRecents="true"
+133-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:124:13-46
+134            android:label="@string/preferred_open_action_share_menu_title"
+134-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:125:13-75
+135            android:taskAffinity=""
+135-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:126:13-36
+136            android:theme="@style/RouterActivityThemeDark" >
+136-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:127:13-59
+137
+138            <!-- Youtube filter -->
+139            <intent-filter>
+139-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:130:13-155:29
+140                <action android:name="android.intent.action.VIEW" />
+140-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+140-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+141                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+141-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+141-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+142                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+142-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+142-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+143
+144                <category android:name="android.intent.category.DEFAULT" />
+144-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+144-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+145                <category android:name="android.intent.category.BROWSABLE" />
+145-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+145-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+146
+147                <data android:scheme="http" />
+147-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+147-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+148                <data android:scheme="https" />
+148-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+148-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+149                <data android:host="youtube.com" />
+149-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+150                <data android:host="m.youtube.com" />
+150-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+151                <data android:host="www.youtube.com" />
+151-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+152                <data android:host="music.youtube.com" />
+152-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+153                <!-- video prefix -->
+154                <data android:pathPrefix="/v/" />
+154-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+155                <data android:pathPrefix="/embed/" />
+155-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+156                <data android:pathPrefix="/watch" />
+156-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+157                <data android:pathPrefix="/attribution_link" />
+157-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+158                <!-- channel prefix -->
+159                <data android:pathPrefix="/channel/" />
+159-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+160                <data android:pathPrefix="/user/" />
+160-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+161                <data android:pathPrefix="/c/" />
+161-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+162                <!-- playlist prefix -->
+163                <data android:pathPrefix="/playlist" />
+163-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+164            </intent-filter>
+165            <intent-filter>
+165-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:156:13-168:29
+166                <action android:name="android.intent.action.VIEW" />
+166-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+166-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+167                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+167-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+167-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+168                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+168-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+168-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+169
+170                <category android:name="android.intent.category.DEFAULT" />
+170-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+170-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+171                <category android:name="android.intent.category.BROWSABLE" />
+171-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+171-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+172
+173                <data android:scheme="http" />
+173-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+173-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+174                <data android:scheme="https" />
+174-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+174-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+175                <data android:host="youtu.be" />
+175-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+176                <data android:pathPrefix="/" />
+176-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+177            </intent-filter>
+178            <intent-filter>
+178-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:169:13-181:29
+179                <action android:name="android.intent.action.VIEW" />
+179-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+179-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+180                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+180-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+180-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+181                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+181-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+181-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+182
+183                <category android:name="android.intent.category.DEFAULT" />
+183-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+183-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+184                <category android:name="android.intent.category.BROWSABLE" />
+184-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+184-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+185
+186                <data android:scheme="http" />
+186-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+186-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+187                <data android:scheme="https" />
+187-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+187-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+188                <data android:host="www.youtube-nocookie.com" />
+188-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+189                <data android:pathPrefix="/embed/" />
+189-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+190            </intent-filter>
+191            <intent-filter>
+191-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:182:13-192:29
+192                <action android:name="android.intent.action.VIEW" />
+192-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+192-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+193                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+193-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+193-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+194                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+194-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+194-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+195
+196                <category android:name="android.intent.category.DEFAULT" />
+196-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+196-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+197                <category android:name="android.intent.category.BROWSABLE" />
+197-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+197-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+198
+199                <data android:scheme="vnd.youtube" />
+199-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+199-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+200                <data android:scheme="vnd.youtube.launch" />
+200-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+200-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+201            </intent-filter>
+202
+203            <!-- Hooktube filter -->
+204            <intent-filter>
+204-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:195:13-214:29
+205                <action android:name="android.intent.action.VIEW" />
+205-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+205-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+206                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+206-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+206-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+207                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+207-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+207-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+208
+209                <category android:name="android.intent.category.DEFAULT" />
+209-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+209-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+210                <category android:name="android.intent.category.BROWSABLE" />
+210-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+210-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+211
+212                <data android:scheme="http" />
+212-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+212-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+213                <data android:scheme="https" />
+213-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+213-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+214                <data android:host="hooktube.com" />
+214-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+215                <data android:host="*.hooktube.com" />
+215-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+216                <!-- video prefix -->
+217                <data android:pathPrefix="/v/" />
+217-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+218                <data android:pathPrefix="/embed/" />
+218-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+219                <data android:pathPrefix="/watch" />
+219-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+220                <!-- channel prefix -->
+221                <data android:pathPrefix="/channel/" />
+221-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+222                <data android:pathPrefix="/user/" />
+222-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+223            </intent-filter>
+224
+225            <!-- Invidious filter -->
+226            <intent-filter>
+226-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:217:13-255:29
+227                <action android:name="android.intent.action.VIEW" />
+227-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+227-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+228                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+228-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+228-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+229                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+229-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+229-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+230
+231                <category android:name="android.intent.category.DEFAULT" />
+231-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+231-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+232                <category android:name="android.intent.category.BROWSABLE" />
+232-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+232-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+233
+234                <data android:scheme="http" />
+234-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+234-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+235                <data android:scheme="https" />
+235-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+235-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+236                <data android:host="invidio.us" />
+236-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+237                <data android:host="dev.invidio.us" />
+237-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+238                <data android:host="www.invidio.us" />
+238-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+239                <data android:host="redirect.invidious.io" />
+239-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+240                <data android:host="invidious.snopyta.org" />
+240-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+241                <data android:host="yewtu.be" />
+241-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+242                <data android:host="tube.connect.cafe" />
+242-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+243                <data android:host="invidious.kavin.rocks" />
+243-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+244                <data android:host="invidious-us.kavin.rocks" />
+244-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+245                <data android:host="piped.kavin.rocks" />
+245-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+246                <data android:host="invidious.site" />
+246-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+247                <data android:host="vid.mint.lgbt" />
+247-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+248                <data android:host="invidiou.site" />
+248-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+249                <data android:host="invidious.fdn.fr" />
+249-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+250                <data android:host="invidious.048596.xyz" />
+250-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+251                <data android:host="invidious.zee.li" />
+251-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+252                <data android:host="vid.puffyan.us" />
+252-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+253                <data android:host="ytprivate.com" />
+253-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+254                <data android:host="invidious.namazso.eu" />
+254-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+255                <data android:host="invidious.silkky.cloud" />
+255-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+256                <data android:host="invidious.exonip.de" />
+256-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+257                <data android:host="inv.riverside.rocks" />
+257-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+258                <data android:host="invidious.blamefran.net" />
+258-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+259                <data android:host="invidious.moomoo.me" />
+259-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+260                <data android:host="ytb.trom.tf" />
+260-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+261                <data android:host="yt.cyberhost.uk" />
+261-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+262                <data android:host="y.com.cm" />
+262-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+263                <data android:pathPrefix="/" />
+263-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+264            </intent-filter>
+265
+266            <!-- Soundcloud filter -->
+267            <intent-filter>
+267-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:258:13-272:29
+268                <action android:name="android.intent.action.VIEW" />
+268-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+268-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+269                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+269-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+269-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+270                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+270-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+270-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+271
+272                <category android:name="android.intent.category.DEFAULT" />
+272-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+272-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+273                <category android:name="android.intent.category.BROWSABLE" />
+273-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+273-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+274
+275                <data android:scheme="http" />
+275-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+275-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+276                <data android:scheme="https" />
+276-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+276-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+277                <data android:host="soundcloud.com" />
+277-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+278                <data android:host="m.soundcloud.com" />
+278-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+279                <data android:host="www.soundcloud.com" />
+279-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+280                <data android:pathPrefix="/" />
+280-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+281            </intent-filter>
+282
+283            <!-- Share filter -->
+284            <intent-filter>
+284-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:275:13-279:29
+285                <action android:name="android.intent.action.SEND" />
+285-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:276:17-69
+285-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:276:25-66
+286
+287                <category android:name="android.intent.category.DEFAULT" />
+287-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+287-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+288
+289                <data android:mimeType="text/plain" />
+289-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+290            </intent-filter>
+291
+292            <!-- media.ccc.de filter -->
+293            <intent-filter>
+293-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:282:13-298:29
+294                <action android:name="android.intent.action.VIEW" />
+294-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+294-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+295                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+295-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+295-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+296                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+296-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+296-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+297
+298                <category android:name="android.intent.category.DEFAULT" />
+298-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+298-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+299                <category android:name="android.intent.category.BROWSABLE" />
+299-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+299-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+300
+301                <data android:scheme="http" />
+301-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+301-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+302                <data android:scheme="https" />
+302-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+302-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+303                <data android:host="media.ccc.de" />
+303-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+304                <!-- video prefix -->
+305                <data android:pathPrefix="/v/" />
+305-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+306                <!-- channel prefix -->
+307                <data android:pathPrefix="/c/" />
+307-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+308                <data android:pathPrefix="/b/" />
+308-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+309            </intent-filter>
+310
+311            <!-- PeerTube filter -->
+312            <intent-filter>
+312-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:301:13-327:29
+313                <action android:name="android.intent.action.VIEW" />
+313-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+313-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+314                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+314-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+314-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+315                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+315-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+315-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+316
+317                <category android:name="android.intent.category.DEFAULT" />
+317-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+317-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+318                <category android:name="android.intent.category.BROWSABLE" />
+318-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+318-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+319
+320                <data android:scheme="http" />
+320-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+320-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+321                <data android:scheme="https" />
+321-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+321-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+322                <data android:host="framatube.org" />
+322-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+323                <data android:host="media.assassinate-you.net" />
+323-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+324                <data android:host="peertube.co.uk" />
+324-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+325                <data android:host="peertube.cpy.re" />
+325-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+326                <data android:host="peertube.mastodon.host" />
+326-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+327                <data android:host="peertube.fr" />
+327-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+328                <data android:host="tilvids.com" />
+328-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+329                <data android:host="tube.privacytools.io" />
+329-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+330                <data android:host="video.ploud.fr" />
+330-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+331                <data android:host="video.lqdn.fr" />
+331-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+332                <data android:host="skeptikon.fr" />
+332-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+333                <data android:pathPrefix="/videos/" /> <!-- it contains playlists -->
+333-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+334                <data android:pathPrefix="/accounts/" />
+334-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+335                <data android:pathPrefix="/video-channels/" />
+335-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+336            </intent-filter>
+337
+338            <!-- Bandcamp filter for tracks, albums and playlists -->
+339            <intent-filter>
+339-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:330:13-341:29
+340                <action android:name="android.intent.action.VIEW" />
+340-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+340-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+341                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+341-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+341-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+342                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+342-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+342-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+343
+344                <category android:name="android.intent.category.DEFAULT" />
+344-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+344-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+345                <category android:name="android.intent.category.BROWSABLE" />
+345-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+345-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+346
+347                <data android:scheme="http" />
+347-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+347-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+348                <data android:scheme="https" />
+348-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+348-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+349                <data android:host="*.bandcamp.com" />
+349-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+350            </intent-filter>
+351
+352            <!-- Bandcamp filter for radio -->
+353            <intent-filter>
+353-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:344:13-355:29
+354                <action android:name="android.intent.action.VIEW" />
+354-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+354-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+355                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+355-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+355-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+356                <action android:name="android.nfc.action.NDEF_DISCOVERED" />
+356-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+356-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+357
+358                <category android:name="android.intent.category.DEFAULT" />
+358-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+358-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+359                <category android:name="android.intent.category.BROWSABLE" />
+359-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+359-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+360
+361                <data android:scheme="http" />
+361-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+361-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+362                <data android:scheme="https" />
+362-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+362-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+363                <data android:sspPattern="bandcamp.com/?show=*" />
+363-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+364            </intent-filter>
+365        </activity>
+366
+367        <service
+367-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:358:9-360:40
+368            android:name="org.schabi.newpipe.RouterActivity$FetcherService"
+368-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:359:13-58
+369            android:exported="false" /> <!-- opting out of sending metrics to Google in Android System WebView -->
+369-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:360:13-37
+370        <meta-data
+370-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:363:9-95
+371            android:name="android.webkit.WebView.MetricsOptOut"
+371-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:363:20-71
+372            android:value="true" /> <!-- see https://github.com/TeamNewPipe/NewPipe/issues/3947 -->
+372-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:363:72-92
+373        <!-- Version < 3.0. DeX Mode and Screen Mirroring support -->
+374        <meta-data
+374-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:366:9-95
+375            android:name="com.samsung.android.keepalive.density"
+375-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:366:20-72
+376            android:value="true" /> <!-- Version >= 3.0. DeX Dual Mode support -->
+376-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:366:73-93
+377        <meta-data
+377-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:368:9-109
+378            android:name="com.samsung.android.multidisplay.keep_process_alive"
+378-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:368:20-86
+379            android:value="true" />
+379-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:368:87-107
+380
+381        <service
+381-->[com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:23:9-25:40
+382            android:name="leakcanary.internal.HeapAnalyzerService"
+382-->[com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:24:13-67
+383            android:exported="false" />
+383-->[com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:25:13-37
+384        <service
+384-->[androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+385            android:name="androidx.room.MultiInstanceInvalidationService"
+385-->[androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+386            android:directBootAware="true"
+386-->[androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+387            android:exported="false" />
+387-->[androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+388
+389        <provider
+389-->[com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+390            android:name="com.squareup.picasso.PicassoProvider"
+390-->[com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+391            android:authorities="org.schabi.newpipe.debug.com.squareup.picasso"
+391-->[com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+392            android:exported="false" />
+392-->[com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+393
+394        <service
+394-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:27:9-31:39
+395            android:name="org.acra.sender.LegacySenderService"
+395-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:28:13-63
+396            android:enabled="@bool/acra_enable_legacy_service"
+396-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:29:13-63
+397            android:exported="false"
+397-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:30:13-37
+398            android:process=":acra" />
+398-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:31:13-36
+399        <service
+399-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:32:9-37:39
+400            android:name="org.acra.sender.JobSenderService"
+400-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:33:13-60
+401            android:enabled="@bool/acra_enable_job_service"
+401-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:34:13-60
+402            android:exported="false"
+402-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:35:13-37
+403            android:permission="android.permission.BIND_JOB_SERVICE"
+403-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:36:13-69
+404            android:process=":acra" />
+404-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:37:13-36
+405
+406        <provider
+406-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:39:9-45:51
+407            android:name="org.acra.attachment.AcraContentProvider"
+407-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:40:13-67
+408            android:authorities="org.schabi.newpipe.debug.acra"
+408-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:41:13-56
+409            android:exported="false"
+409-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:42:13-37
+410            android:grantUriPermissions="true"
+410-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:43:13-47
+411            android:process=":acra" />
+411-->[ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:44:13-36
+412        <provider
+412-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:29:9-37:20
+413            android:name="leakcanary.internal.LeakCanaryFileProvider"
+413-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:30:13-70
+414            android:authorities="com.squareup.leakcanary.fileprovider.org.schabi.newpipe.debug"
+414-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:31:13-88
+415            android:exported="false"
+415-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:32:13-37
+416            android:grantUriPermissions="true" >
+416-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:33:13-47
+417            <meta-data
+417-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:34:13-36:66
+418                android:name="android.support.FILE_PROVIDER_PATHS"
+418-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:35:17-67
+419                android:resource="@xml/leak_canary_file_paths" />
+419-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:36:17-63
+420        </provider>
+421
+422        <activity
+422-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:39:9-44:66
+423            android:name="leakcanary.internal.activity.LeakActivity"
+423-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:40:13-69
+424            android:icon="@mipmap/leak_canary_icon"
+424-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:41:13-52
+425            android:label="@string/leak_canary_display_activity_label"
+425-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:42:13-71
+426            android:taskAffinity="com.squareup.leakcanary.org.schabi.newpipe.debug"
+426-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:43:13-76
+427            android:theme="@style/leak_canary_LeakCanary.Base" />
+427-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:44:13-63
+428
+429        <activity-alias
+429-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:46:9-62:26
+430            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+430-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:47:13-77
+431            android:banner="@drawable/leak_canary_tv_icon"
+431-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:48:13-59
+432            android:enabled="@bool/leak_canary_add_launcher_icon"
+432-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:49:13-66
+433            android:icon="@mipmap/leak_canary_icon"
+433-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:50:13-52
+434            android:label="@string/leak_canary_display_activity_label"
+434-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:51:13-71
+435            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+435-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:52:13-79
+436            android:taskAffinity="com.squareup.leakcanary.org.schabi.newpipe.debug"
+436-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:53:13-76
+437            android:theme="@style/leak_canary_LeakCanary.Base" >
+437-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:54:13-63
+438            <intent-filter>
+438-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:32:13-37:29
+439                <action android:name="android.intent.action.MAIN" />
+439-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:33:17-69
+439-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:33:25-66
+440
+441                <category android:name="android.intent.category.LAUNCHER" />
+441-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:35:17-77
+441-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:35:27-74
+442                <!-- Android TV launcher intent -->
+443                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+443-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:36:17-86
+443-->C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:36:27-83
+444            </intent-filter>
+445        </activity-alias>
+446
+447        <activity
+447-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:64:9-70:68
+448            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+448-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:65:13-80
+449            android:excludeFromRecents="true"
+449-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:66:13-46
+450            android:icon="@mipmap/leak_canary_icon"
+450-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:67:13-52
+451            android:label="@string/leak_canary_storage_permission_activity_label"
+451-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:68:13-82
+452            android:taskAffinity="com.squareup.leakcanary.org.schabi.newpipe.debug"
+452-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:69:13-76
+453            android:theme="@style/leak_canary_Theme.Transparent" />
+453-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:70:13-65
+454
+455        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+455-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:72:9-77
+455-->[com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:72:19-74
+456
+457        <provider
+457-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:8:9-12:40
+458            android:name="leakcanary.internal.AppWatcherInstaller$MainProcess"
+458-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:9:13-79
+459            android:authorities="org.schabi.newpipe.debug.leakcanary-installer"
+459-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:10:13-72
+460            android:enabled="@bool/leak_canary_watcher_auto_install"
+460-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:11:13-69
+461            android:exported="false" />
+461-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:12:13-37
+462        <provider
+462-->[com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:8:9-12:40
+463            android:name="leakcanary.internal.PlumberInstaller"
+463-->[com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:9:13-64
+464            android:authorities="org.schabi.newpipe.debug.plumber-installer"
+464-->[com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:10:13-69
+465            android:enabled="@bool/leak_canary_plumber_auto_install"
+465-->[com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:11:13-69
+466            android:exported="false" />
+466-->[com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:12:13-37
+467    </application>
+468
+469</manifest>

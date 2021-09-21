@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4477de79-bcd5-4f53-b4b2-fc7c6e50a886" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res/resValues/debug/values/gradleResValues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/org/schabi/newpipe/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/BaseFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/RouterActivity$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/AppDatabase_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/feed/dao/FeedDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/feed/dao/FeedGroupDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/history/dao/SearchHistoryDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/history/dao/StreamHistoryDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/playlist/dao/PlaylistDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/playlist/dao/PlaylistRemoteDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/playlist/dao/PlaylistStreamDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/stream/dao/StreamDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/stream/dao/StreamStateDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/database/subscription/SubscriptionDAO_Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/download/DownloadDialog$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/fragments/BaseStateFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/fragments/detail/DescriptionFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/fragments/detail/VideoDetailFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/fragments/list/BaseListInfoFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/fragments/list/kiosk/KioskFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/fragments/list/search/SearchFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/bookmark/BookmarkFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/feed/FeedFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/history/StatisticsPlaylistFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/playlist/LocalPlaylistFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/subscription/ImportConfirmationDialog$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/subscription/SubscriptionFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/subscription/SubscriptionsImportFragment$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/subscription/dialog/FeedGroupDialog$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/local/subscription/dialog/FeedGroupReorderDialog$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/kapt/debug/org/schabi/newpipe/views/CollapsibleView$$Icepick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/classes/debug/META-INF/services/org.acra.sender.ReportSenderFactory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/schabi/newpipe/error/ErrorInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/schabi/newpipe/error/ErrorInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/schabi/newpipe/local/playlist/LocalPlaylistManagerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/schabi/newpipe/local/playlist/LocalPlaylistManagerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/org/schabi/newpipe/testUtil/TrampolineSchedulerRule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/org/schabi/newpipe/testUtil/TrampolineSchedulerRule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/org/schabi/newpipe/DebugApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/java/org/schabi/newpipe/DebugApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/org/schabi/newpipe/settings/DebugSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/java/org/schabi/newpipe/settings/DebugSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/res/xml/main_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/res/xml/main_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/BaseFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/BaseFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/CheckForNewAppVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/CheckForNewAppVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/DownloaderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/DownloaderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ExitActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ExitActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/NewPipeDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/NewPipeDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/NewVersionManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/NewVersionManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/PanicResponderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/PanicResponderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/QueueItemMenuUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/QueueItemMenuUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/RouterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/RouterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/AboutActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/AboutActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/License.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/License.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/LicenseFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/LicenseFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/LicenseFragmentHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/LicenseFragmentHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/SoftwareComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/SoftwareComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/StandardLicenses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/about/StandardLicenses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/AppDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/AppDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/BasicDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/BasicDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/LocalItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/LocalItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/Migrations.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/Migrations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/dao/FeedDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/dao/FeedDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/dao/FeedGroupDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/dao/FeedGroupDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedGroupEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedGroupEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedGroupSubscriptionEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedGroupSubscriptionEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedLastUpdatedEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/feed/model/FeedLastUpdatedEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/dao/HistoryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/dao/HistoryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/dao/SearchHistoryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/dao/SearchHistoryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/dao/StreamHistoryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/dao/StreamHistoryDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/model/SearchHistoryEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/model/SearchHistoryEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/model/StreamHistoryEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/model/StreamHistoryEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/model/StreamHistoryEntry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/history/model/StreamHistoryEntry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/PlaylistLocalItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/PlaylistLocalItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/PlaylistMetadataEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/PlaylistMetadataEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/PlaylistStreamEntry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/PlaylistStreamEntry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/dao/PlaylistDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/dao/PlaylistDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/dao/PlaylistRemoteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/dao/PlaylistRemoteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/dao/PlaylistStreamDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/dao/PlaylistStreamDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/model/PlaylistEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/model/PlaylistEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/model/PlaylistRemoteEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/model/PlaylistRemoteEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/model/PlaylistStreamEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/playlist/model/PlaylistStreamEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/StreamStatisticsEntry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/StreamStatisticsEntry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/StreamWithState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/StreamWithState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/dao/StreamDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/dao/StreamDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/dao/StreamStateDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/dao/StreamStateDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/model/StreamEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/model/StreamEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/model/StreamStateEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/stream/model/StreamStateEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/subscription/SubscriptionDAO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/subscription/SubscriptionDAO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/subscription/SubscriptionEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/database/subscription/SubscriptionEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/download/DownloadActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/download/DownloadActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/download/DownloadDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/download/DownloadDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/AcraReportSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/AcraReportSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/AcraReportSenderFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/AcraReportSenderFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ErrorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ErrorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ErrorInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ErrorInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ErrorPanelHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ErrorPanelHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ReCaptchaActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/ReCaptchaActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/UserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/error/UserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/BackPressable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/BackPressable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/BaseStateFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/BaseStateFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/BlankFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/BlankFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/EmptyFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/EmptyFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/MainFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/MainFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/OnScrollBelowItemsListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/OnScrollBelowItemsListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/ViewContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/ViewContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/DescriptionFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/DescriptionFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/StackItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/StackItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/TabAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/TabAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/VideoDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/detail/VideoDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/BaseListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/BaseListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/BaseListInfoFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/BaseListInfoFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/ListViewContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/ListViewContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/channel/ChannelFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/channel/ChannelFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/comments/CommentsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/comments/CommentsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/kiosk/DefaultKioskFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/kiosk/DefaultKioskFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/kiosk/KioskFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/kiosk/KioskFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/playlist/PlaylistFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/playlist/PlaylistFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/search/SearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/search/SearchFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/search/SuggestionItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/search/SuggestionItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/search/SuggestionListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/search/SuggestionListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/videos/RelatedItemsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/fragments/list/videos/RelatedItemsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/InfoItemBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/InfoItemBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/InfoItemDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/InfoItemDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/InfoListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/InfoListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/StreamSegmentAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/StreamSegmentAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/StreamSegmentItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/StreamSegmentItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/ChannelGridInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/ChannelGridInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/ChannelInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/ChannelInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/ChannelMiniInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/ChannelMiniInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/CommentsInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/CommentsInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/CommentsMiniInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/CommentsMiniInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/InfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/InfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/PlaylistGridInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/PlaylistGridInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/PlaylistInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/PlaylistInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/PlaylistMiniInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/PlaylistMiniInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/StreamGridInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/StreamGridInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/StreamInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/StreamInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/StreamMiniInfoItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/info_list/holder/StreamMiniInfoItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ktx/TextView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ktx/TextView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ktx/Throwable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ktx/Throwable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ktx/View.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/ktx/View.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/BaseLocalListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/BaseLocalListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/HeaderFooterHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/HeaderFooterHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/LocalItemBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/LocalItemBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/LocalItemListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/LocalItemListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/bookmark/BookmarkFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/bookmark/BookmarkFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/dialog/PlaylistAppendDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/dialog/PlaylistAppendDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/dialog/PlaylistCreationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/dialog/PlaylistCreationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/dialog/PlaylistDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/dialog/PlaylistDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedDatabaseManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedDatabaseManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/FeedViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/item/StreamItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/item/StreamItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/service/FeedEventManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/service/FeedEventManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/service/FeedLoadService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/feed/service/FeedLoadService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/history/HistoryEntryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/history/HistoryEntryAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/history/HistoryRecordManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/history/HistoryRecordManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/history/StatisticsPlaylistFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/history/StatisticsPlaylistFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistGridItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistGridItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistStreamGridItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistStreamGridItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistStreamItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalPlaylistStreamItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalStatisticStreamGridItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalStatisticStreamGridItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalStatisticStreamItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/LocalStatisticStreamItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/PlaylistItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/PlaylistItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/RemotePlaylistGridItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/RemotePlaylistGridItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/RemotePlaylistItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/holder/RemotePlaylistItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/playlist/LocalPlaylistFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/playlist/LocalPlaylistFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/playlist/LocalPlaylistManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/playlist/LocalPlaylistManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/playlist/RemotePlaylistManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/playlist/RemotePlaylistManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/FeedGroupIcon.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/FeedGroupIcon.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/ImportConfirmationDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/ImportConfirmationDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionsImportFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/SubscriptionsImportFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/decoration/FeedGroupCarouselDecoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/decoration/FeedGroupCarouselDecoration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupDialog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupDialog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupDialogViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupDialogViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupReorderDialog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupReorderDialog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupReorderDialogViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/dialog/FeedGroupReorderDialogViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/ChannelItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/ChannelItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/EmptyPlaceholderItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/EmptyPlaceholderItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupAddItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupAddItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupCardItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupCardItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupCarouselItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupCarouselItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupReorderItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedGroupReorderItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedImportExportItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/FeedImportExportItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/HeaderWithMenuItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/HeaderWithMenuItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/PickerIconItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/PickerIconItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/PickerSubscriptionItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/item/PickerSubscriptionItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/BaseImportExportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/BaseImportExportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/ImportExportEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/ImportExportEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/ImportExportJsonHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/ImportExportJsonHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/SubscriptionsExportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/SubscriptionsExportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/SubscriptionsImportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/local/subscription/services/SubscriptionsImportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/AudioServiceLeakFix.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/AudioServiceLeakFix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/MainPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/MainPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/NotificationConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/NotificationConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/NotificationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/NotificationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/PlayQueueActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/PlayQueueActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/PlayerServiceBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/PlayerServiceBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/PlayerState.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/PlayerState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/BasePlayerGestureListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/BasePlayerGestureListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/CustomBottomSheetBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/CustomBottomSheetBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/DisplayPortion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/DisplayPortion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/DoubleTapListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/DoubleTapListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/OnKeyDownListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/OnKeyDownListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerGestureListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerGestureListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerServiceEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerServiceEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerServiceExtendedEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/event/PlayerServiceExtendedEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/AudioReactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/AudioReactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/CacheFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/CacheFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/LoadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/LoadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/LockManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/LockManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/MediaSessionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/MediaSessionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlaybackParameterDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlaybackParameterDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlayerDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlayerDataSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlayerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlayerHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlayerHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/helper/PlayerHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasession/MediaSessionCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasession/MediaSessionCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasession/PlayQueueNavigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasession/PlayQueueNavigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasession/PlayQueuePlaybackController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasession/PlayQueuePlaybackController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/FailedMediaSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/FailedMediaSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/LoadedMediaSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/LoadedMediaSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/ManagedMediaSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/ManagedMediaSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/ManagedMediaSourcePlaylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/ManagedMediaSourcePlaylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/PlaceholderMediaSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/mediasource/PlaceholderMediaSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/CustomTrackSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/CustomTrackSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/MediaSourceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/MediaSourceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/PlaybackListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/PlaybackListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/PlayerMediaSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/PlayerMediaSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/SurfaceHolderCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playback/SurfaceHolderCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/AbstractInfoPlayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/AbstractInfoPlayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/ChannelPlayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/ChannelPlayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItemBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItemBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItemHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItemHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItemTouchCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlayQueueItemTouchCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlaylistPlayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/PlaylistPlayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/SinglePlayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/SinglePlayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/AppendEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/AppendEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/ErrorEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/ErrorEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/InitEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/InitEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/MoveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/MoveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/PlayQueueEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/PlayQueueEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/PlayQueueEventType.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/PlayQueueEventType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/RecoveryEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/RecoveryEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/RemoveEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/RemoveEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/ReorderEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/ReorderEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/SelectEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/playqueue/events/SelectEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/AudioPlaybackResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/AudioPlaybackResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/MediaSourceTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/MediaSourceTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/PlaybackResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/PlaybackResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/Resolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/VideoPlaybackResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/resolver/VideoPlaybackResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/seekbarpreview/SeekbarPreviewThumbnailHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/seekbarpreview/SeekbarPreviewThumbnailHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/seekbarpreview/SeekbarPreviewThumbnailHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/player/seekbarpreview/SeekbarPreviewThumbnailHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/AppearanceSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/AppearanceSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/BasePreferenceFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/BasePreferenceFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/ContentSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/ContentSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/ContentSettingsManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/ContentSettingsManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/DownloadSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/DownloadSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/HistorySettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/HistorySettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/MainSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/MainSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/NewPipeFileLocator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/NewPipeFileLocator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/NewPipeSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/NewPipeSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/NotificationSettingsFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/NotificationSettingsFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/PeertubeInstanceListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/PeertubeInstanceListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SelectChannelFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SelectChannelFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SelectKioskFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SelectKioskFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SelectPlaylistFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SelectPlaylistFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SettingMigrations.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SettingMigrations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/UpdateSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/UpdateSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/VideoAudioSettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/VideoAudioSettingsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/custom/DurationListPreference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/custom/DurationListPreference.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/custom/NotificationActionsPreference.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/custom/NotificationActionsPreference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/AddTabDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/AddTabDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/ChooseTabsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/ChooseTabsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/TabsJsonHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/TabsJsonHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/TabsManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/settings/tabs/TabsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/Mp4DashReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/Mp4DashReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/Mp4FromDashWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/Mp4FromDashWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/OggFromWebMWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/OggFromWebMWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/SrtFromTtmlWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/SrtFromTtmlWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/WebMReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/WebMReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/WebMWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/WebMWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/SharpInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/SharpInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/SharpOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/SharpOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/SharpStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/SharpStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/StoredDirectoryHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/StoredDirectoryHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/StoredFileHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/streams/io/StoredFileHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/BitmapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/BitmapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/CommentTextOnTouchListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/CommentTextOnTouchListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/CookieUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/CookieUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/DeviceUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/DeviceUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ExtractorHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ExtractorHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/FallbackViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/FallbackViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/FilePickerActivityHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/FilePickerActivityHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/FilenameUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/FilenameUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/InfoCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/InfoCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/KioskTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/KioskTranslator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/LayoutManagerSmoothScroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/LayoutManagerSmoothScroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ListHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ListHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/Localization.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/Localization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/NavigationHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/NavigationHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/OnClickGesture.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/OnClickGesture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/PeertubeHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/PeertubeHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/PermissionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/PermissionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/PicassoHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/PicassoHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/RelatedItemInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/RelatedItemInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SavedState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SavedState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SecondaryStreamHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SecondaryStreamHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SerializedCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SerializedCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ServiceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ServiceHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SliderStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/SliderStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/StateSaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/StateSaver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/StreamDialogEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/StreamDialogEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/StreamItemAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/StreamItemAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/TLSSocketFactoryCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/TLSSocketFactoryCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ThemeHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ThemeHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ZipHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/ZipHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/InternalUrlsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/InternalUrlsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/KoreUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/KoreUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/ShareUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/ShareUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/TextLinkifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/TextLinkifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/TimestampExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/external_communication/TimestampExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/urlfinder/PatternsCompat.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/urlfinder/PatternsCompat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/urlfinder/UrlFinder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/util/urlfinder/UrlFinder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/AnimatedProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/AnimatedProgressBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/CollapsibleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/CollapsibleView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/CustomCollapsingToolbarLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/CustomCollapsingToolbarLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/ExpandableSurfaceView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/ExpandableSurfaceView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusAwareCoordinator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusAwareCoordinator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusAwareDrawerLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusAwareDrawerLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusAwareSeekBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusAwareSeekBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusOverlayView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/FocusOverlayView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/LargeTextMovementMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/LargeTextMovementMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/NewPipeRecyclerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/NewPipeRecyclerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/ScrollableTabLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/ScrollableTabLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/SuperScrollLayoutManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/schabi/newpipe/views/SuperScrollLayoutManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadMission.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadMission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadRunnableFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/DownloadRunnableFallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/Mission.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/Mission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/sqlite/FinishedMissionStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/get/sqlite/FinishedMissionStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/ChunkFileInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/ChunkFileInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/CircularFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/CircularFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/FileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/FileStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/FileStreamSAF.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/io/FileStreamSAF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/M4aNoDash.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/M4aNoDash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/Mp4FromDashMuxer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/Mp4FromDashMuxer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/OggFromWebmDemuxer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/OggFromWebmDemuxer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/Postprocessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/Postprocessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/TtmlConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/TtmlConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/WebMMuxer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/postprocessing/WebMMuxer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/service/DownloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/service/DownloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/service/DownloadManagerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/service/DownloadManagerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/ui/adapter/MissionAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/ui/adapter/MissionAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/ui/fragment/MissionsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/ui/fragment/MissionsFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/us/shandian/giga/util/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_player_queue_control.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_player_queue_control.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-large-land/fragment_video_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-large-land/fragment_video_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-large-land/player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout-large-land/player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_error.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_error.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_player_queue_control.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_player_queue_control.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/feed_import_export_group.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/feed_import_export_group.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_comments.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_comments.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_kiosk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_kiosk.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_video_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_video_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_grid_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_grid_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_mini_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_mini_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_playlist_grid_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_playlist_grid_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_playlist_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_stream_playlist_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/player.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/player.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/settings_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/settings_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_play_queue.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_play_queue.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/content_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/content_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/notification_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/notification_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/release/res/xml/main_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/release/res/xml/main_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/NewVersionManagerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/NewVersionManagerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/error/ErrorActivityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/error/ErrorActivityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/error/ReCaptchaActivityTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/error/ReCaptchaActivityTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/ktx/ThrowableExtensionsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/ktx/ThrowableExtensionsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/local/subscription/FeedGroupIconTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/local/subscription/FeedGroupIconTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/local/subscription/services/ImportExportJsonHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/local/subscription/services/ImportExportJsonHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/player/playqueue/PlayQueueItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/player/playqueue/PlayQueueItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/player/playqueue/PlayQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/player/playqueue/PlayQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/settings/ContentSettingsManagerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/settings/ContentSettingsManagerTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/settings/tabs/TabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/settings/tabs/TabTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/settings/tabs/TabsJsonHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/settings/tabs/TabsJsonHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/ListHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/ListHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/LocalizationTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/LocalizationTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/QuadraticSliderStrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/QuadraticSliderStrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/external_communication/TimestampExtractorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/external_communication/TimestampExtractorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/urlfinder/UrlFinderTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/org/schabi/newpipe/util/urlfinder/UrlFinderTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Kartik\.android\avd\Nexus_4_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1632218339" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yJawuGr65wI6TiFajCsKoxWFyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../memetastic" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="NewPipe.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4477de79-bcd5-4f53-b4b2-fc7c6e50a886" name="Default Changelist" comment="" />
+      <created>1631972386827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631972386827</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ini">
+      <created>1632217893049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632217893050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="originial package">
+      <created>1632237577065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632237577066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first part of package changes">
+      <created>1632237941069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632237941069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="second  part of package changes">
+      <created>1632238125426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632238125426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ini" />
+    <MESSAGE value="originial package" />
+    <MESSAGE value="first part of package changes" />
+    <MESSAGE value="second  part of package changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="second  part of package changes" />
+  </component>
+</project>

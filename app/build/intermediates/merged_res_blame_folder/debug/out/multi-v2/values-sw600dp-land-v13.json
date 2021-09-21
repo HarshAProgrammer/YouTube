@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "5,13,7,12,11,6,9,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "125,637,257,563,496,192,393,325",
+                        "endColumns": "66,75,67,73,66,64,70,67",
+                        "endOffsets": "187,708,320,632,558,252,459,388"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,122,198,266,340,407,472,543",
+                        "endColumns": "66,75,67,73,66,64,70,67",
+                        "endOffsets": "117,193,261,335,402,467,538,606"
+                    }
+                }
+            ]
+        }
+    ]
+}

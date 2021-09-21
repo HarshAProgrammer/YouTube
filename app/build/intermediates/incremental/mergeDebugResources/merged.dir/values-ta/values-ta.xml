@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d வினாடி ஃபாஸ்ட் ஃபார்வர்ட் ஆகும்</item>
+    <item quantity="other">%d வினாடிகள் ஃபாஸ்ட் ஃபார்வர்ட் ஆகும்</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d வினாடி ரீவைண்ட் ஆகும்</item>
+    <item quantity="other">%d வினாடிகள் ரீவைண்ட் ஆகும்</item>
+  </plurals>
+    <plurals name="subscribers">
+        <item quantity="one">%s பின் தொடர்பவர்</item>
+        <item quantity="other">%s பின் தொடர்பவர்கள்</item>
+    </plurals>
+    <plurals name="videos">
+        <item quantity="one">காணொளிகள்</item>
+        <item quantity="other">காணொளிகள்</item>
+    </plurals>
+    <plurals name="views">
+        <item quantity="one">%s பார்வை</item>
+        <item quantity="other">%s பார்வைகள்</item>
+    </plurals>
+    <plurals name="watching">
+        <item quantity="one">%s பார்க்கிறார்</item>
+        <item quantity="other">%s பார்க்கிறார்கள்</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"முகப்பிற்குச் செல்லும்"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"மேலே செல்லும்"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"முடிந்தது"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"அனைத்தையும் காட்டு"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ஆப்ஸைத் தேர்வுசெய்க"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ஆஃப்"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ஆன்"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt மற்றும்"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl மற்றும்"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function மற்றும்"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta மற்றும்"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift மற்றும்"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym மற்றும்"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu மற்றும்"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"தேடுக…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"வினவலை அழிக்கும்"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"தேடல் வினவல்"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"தேடும்"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"வினவலைச் சமர்ப்பிக்கும்"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"குரல் தேடல்"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"இதில் பகிர்"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> மூலம் பகிர்"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"சுருக்கும்"</string>
+    <string name="action_history">வரலாறு</string>
+    <string name="all">அனைத்தும்</string>
+    <string name="always">எப்பொழுதும்</string>
+    <string name="app_ui_crash">செயலி நிறுத்தப்பட்டது</string>
+    <string name="app_update_notification_channel_description">புதிய NewPipe பதிப்புக்கு அறிவிப்பு</string>
+    <string name="app_update_notification_channel_name">செயலி புதுப்பித்தல் அறிவிப்பு</string>
+    <string name="audio">ஒலி</string>
+    <string name="audio_streams_empty">எந்த ஒலியோடையும் இல்லை</string>
+    <string name="auto_queue_title">அடுத்த தாரையில் தானாக சேர்</string>
+    <string name="autoplay_title">தானாக ஓட்டு</string>
+    <string name="background_player_playing_toast">பிண்ணணியில் ஓடுகிறது</string>
+    <string name="best_resolution">சிறந்த திரைத் தெளிவுத்திறன்</string>
+    <string name="black_theme_title">கருப்பு</string>
+    <string name="brightness_gesture_control_summary">Player-ன் வெளிச்சத்தைக் கட்டுப்படுத்த செய்கையை பயன்படுத்து</string>
+    <string name="brightness_gesture_control_title">வெளிச்ச கட்டுப்பாடு செய்கை</string>
+    <string name="cancel">ரத்துசெய்</string>
+    <string name="channel_unsubscribed">சேனல் குழுவிளகப்பட்டது</string>
+    <string name="channels">சேனல்கள்</string>
+    <string name="clear">அழி</string>
+    <string name="clear_download_history">பதிவிறக்க வரலாற்றை அழி</string>
+    <string name="clear_queue_confirmation_description">செயலிலுள்ள இயக்கி வரிசை மாற்றப்படும்</string>
+    <string name="clear_queue_confirmation_summary">ஒரு இயக்கி விட்டு மறு இயக்கி மாறுதல் உங்கள் வரிசையை மாற்றக்கூடும்</string>
+    <string name="clear_queue_confirmation_title">வரிசையை அழிக்கும் முன் உறுதிப்படுத்தலைக் கேள்</string>
+    <string name="clear_search_history_summary">தேடப்பட்ட வார்த்தைகளின் வரலாற்றை அழி</string>
+    <string name="clear_search_history_title">தேடல் வரலாற்றை அழி</string>
+    <string name="clear_views_history_title">பார்த்த வரலாற்றை அழி</string>
+    <string name="confirm_prompt">உங்கள் பதிவிறக்க வரலாற்றை அழிக்க வேண்டுமா அ எல்லா பதிவிறக்கிய கோப்புகளையும் நீக்க வேண்டுமா\?</string>
+    <string name="content">உள்ளடக்கம்</string>
+    <string name="controls_add_to_playlist_title">சேர்</string>
+    <string name="controls_background_title">பின்னால்</string>
+    <string name="controls_download_desc">நிகழ்பட கோப்பை பதிவிறக்கு</string>
+    <string name="controls_popup_title">திரைமேல்</string>
+    <string msgid="3209159573327985035" name="copy">"நகலெடு"</string>
+    <string name="dark_theme_title">அடர்</string>
+    <string name="default_audio_format_title">முதல் ஒலி வடிவம்</string>
+    <string name="default_content_country_title">இயல்புநிலை தகவல்களின் நாடு</string>
+    <string name="default_popup_resolution_title">முதல் திரைமேல் நிலை பிரிதிறன்</string>
+    <string name="default_resolution_title">முதல் பிரிதிறன்</string>
+    <string name="default_video_format_title">முதல் காணிலி வடிவம்</string>
+    <string name="delete_item_search_history">தேடல் வரலாற்றிலிருந்து இந்த உருப்படியை நீக்கவா\?</string>
+    <string name="delete_search_history_alert">தேடல் வரலாறு முழுவதையும் அழி\?</string>
+    <string name="delete_view_history_alert">பார்த்த வரலாறு முழுவதையும் அழி\?</string>
+    <string name="detail_dislikes_img_view_description">வெறுப்புகள்</string>
+    <string name="detail_drag_description">இழுத்து வரிசைமாற்று</string>
+    <string name="detail_likes_img_view_description">விருப்பங்கள்</string>
+    <string name="did_you_mean">நீங்கள் கூறியது: %1$s\?</string>
+    <string name="disabled">செயலிழக்கச் செய்யப்பட்டுள்ளது</string>
+    <string name="download">பதிவிறக்கம்</string>
+    <string name="download_dialog_title">பதிவிறக்கு</string>
+    <string name="download_failed">பதிவிறக்கம் தோல்வியடைந்தது</string>
+    <string name="download_path_audio_dialog_title">ஒலி கோப்புகளுக்கான பதிவிறக்கப் பாதையை தேர்வு செய்க</string>
+    <string name="download_path_audio_summary">தரவிறக்கப்பட்ட ஒலி இங்கே சேமிக்கப்பட்டுள்ளது</string>
+    <string name="download_path_audio_title">ஒலி பதிவிறக்க கோப்புறை</string>
+    <string name="download_path_dialog_title">காணொலியின் தரவிறக்கக் கோப்புறையை தேர்வு செய்க</string>
+    <string name="download_path_summary">பதிவிறக்கப்பட்ட காணொலிகள் இங்கு சேமிக்கப்படும்</string>
+    <string name="download_path_title">காணொலி பதிவிறக்க கோப்புறை</string>
+    <string name="download_thumbnail_title">சிறுபடத்தைக் இறக்கு</string>
+    <string name="download_to_sdcard_error_title">வெளி சேமிப்பு இயலாது</string>
+    <string name="downloads">பதிவிறக்கங்கள்</string>
+    <string name="downloads_title">பதிவிறக்கங்கள்</string>
+    <string name="duration_live">நேரடி ஒளிபரப்பு</string>
+    <string name="empty_subscription_feed_subtitle">எந்த முடிவுகளும் இல்லை</string>
+    <string name="enable_playback_resume_title">திரையிடலை தொடங்கு</string>
+    <string name="enable_playback_state_lists_title">பட்டியலில் இடங்கள்</string>
+    <string name="enable_search_history_summary">தேடப்பட்ட வாக்கியத்தை அமைவிடத்தில் சேமிக்கவும்</string>
+    <string name="enable_search_history_title">தேடல் வரலாறு</string>
+    <string name="enable_watch_history_summary">பார்த்த காணொலிகளை குறிப்பிடு</string>
+    <string name="enable_watch_history_title">பார்த்த வரலாறு</string>
+    <string name="enqueue">வரிசை</string>
+    <string name="error_details_headline">விவரங்கள்:</string>
+    <string name="error_occurred_detail">ஒரு பிழை நிகழ்ந்தது: %1$s</string>
+    <string name="error_report_button_text">மின்னஞ்சல் மூலம் பிழையை தெரிவிக்கவும்</string>
+    <string name="error_report_title">பிழை அறிக்கை</string>
+    <string name="error_snackbar_message">மன்னியுங்கள். சிறிய பிழை நிகழ்ந்தது.</string>
+    <string name="events">நிகழ்வுகள்</string>
+    <string name="exo_controls_cc_disabled_description">வசனங்களை இயக்கும்</string>
+    <string name="exo_controls_cc_enabled_description">வசனங்களை முடக்கும்</string>
+    <string name="exo_controls_fastforward_description">வேகமாக முன்செல்</string>
+    <string name="exo_controls_fullscreen_enter_description">முழுத்திரையில் காட்ட உதவும் பட்டன்</string>
+    <string name="exo_controls_fullscreen_exit_description">முழுத்திரையை வெளியேற உதவும் பட்டன்</string>
+    <string name="exo_controls_hide">பிளேயர் கட்டுப்பாடுகளை மறைக்கும்</string>
+    <string name="exo_controls_next_description">அடுத்து</string>
+    <string name="exo_controls_overflow_hide_description">கூடுதல் அமைப்புகளை மறைக்கும்</string>
+    <string name="exo_controls_overflow_show_description">கூடுதல் அமைப்புகளைக் காட்டும்</string>
+    <string name="exo_controls_pause_description">இடைநிறுத்து</string>
+    <string name="exo_controls_play_description">இயக்கு</string>
+    <string name="exo_controls_playback_speed">வேகம்</string>
+    <string name="exo_controls_playback_speed_normal">இயல்பு</string>
+    <string name="exo_controls_previous_description">முந்தையது</string>
+    <string name="exo_controls_repeat_all_description">அனைத்தையும் மீண்டும் இயக்கு</string>
+    <string name="exo_controls_repeat_off_description">எதையும் மீண்டும் இயக்காதே</string>
+    <string name="exo_controls_repeat_one_description">இதை மட்டும் மீண்டும் இயக்கு</string>
+    <string name="exo_controls_rewind_description">பின்செல்</string>
+    <string name="exo_controls_seek_bar_description">வீடியோவின் இயக்க நிலை</string>
+    <string name="exo_controls_settings_description">அமைப்புகள்</string>
+    <string name="exo_controls_show">பிளேயர் கட்டுப்பாடுகளைக் காட்டும்</string>
+    <string name="exo_controls_shuffle_off_description">கலைத்துப் போடுதல்: ஆஃப்</string>
+    <string name="exo_controls_shuffle_on_description">கலைத்துப் போடுதல்: ஆன்</string>
+    <string name="exo_controls_stop_description">நிறுத்து</string>
+    <string name="exo_controls_vr_description">VR பயன்முறை</string>
+    <string name="exo_download_completed">பதிவிறக்கப்பட்டது</string>
+    <string name="exo_download_description">பதிவிறக்கும் பட்டன்</string>
+    <string name="exo_download_downloading">பதிவிறக்குகிறது</string>
+    <string name="exo_download_failed">பதிவிறக்க முடியவில்லை</string>
+    <string name="exo_download_notification_channel_name">பதிவிறக்கங்கள்</string>
+    <string name="exo_download_removing">பதிவிறக்கங்கள் அகற்றப்படுகின்றன</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">அனைத்தையும் மீண்டும் இயக்கு</string>
+    <string name="exo_media_action_repeat_off_description">எதையும் மீண்டும் இயக்காதே</string>
+    <string name="exo_media_action_repeat_one_description">இதை மட்டும் மீண்டும் இயக்கு</string>
+    <string name="exo_track_bitrate">%1$.2f மெ.பை./வி</string>
+    <string name="exo_track_mono">மோனோ</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">மாற்று டிராக்</string>
+    <string name="exo_track_role_closed_captions">வசனம்</string>
+    <string name="exo_track_role_commentary">வர்ணனை</string>
+    <string name="exo_track_role_supplementary">துணை டிராக்</string>
+    <string name="exo_track_selection_auto">தானியங்கு</string>
+    <string name="exo_track_selection_none">ஏதுமில்லை</string>
+    <string name="exo_track_selection_title_audio">ஆடியோ</string>
+    <string name="exo_track_selection_title_text">உரை</string>
+    <string name="exo_track_selection_title_video">வீடியோ</string>
+    <string name="exo_track_stereo">ஸ்டீரியோ</string>
+    <string name="exo_track_surround">சரவுண்ட் சவுண்ட்</string>
+    <string name="exo_track_surround_5_point_1">5.1 சரவுண்ட் சவுண்ட்</string>
+    <string name="exo_track_surround_7_point_1">7.1 சரவுண்ட் சவுண்ட்</string>
+    <string name="exo_track_unknown">தெரியாதவை</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"மேம்பட்டவை"</string>
+    <string name="export_data_summary">வரலாறு, சந்தாக்கள், இயக்குபட்டியல்கள் மற்றும் அமைப்புகளை ஏற்றுமதி செய்</string>
+    <string name="export_data_title">தகவல்கலை ஏற்றுமதி செய்</string>
+    <string name="file">கோப்பு</string>
+    <string name="file_deleted">கோப்பு அழிக்கப்பட்டது</string>
+    <string name="file_name_empty_error">கோப்பு பெயர் காலியாக இருக்க முடியாது</string>
+    <string name="fragment_feed_title">புதிதாக</string>
+    <string name="general_error">பிழை</string>
+    <string name="import_data_summary">தற்போதைய வரலாறு, சந்தாக்கள், இயக்குபட்டியல்கள் மற்றும் (விரும்பினால்) அமைப்புகள் ஐ மீறும்</string>
+    <string name="import_data_title">தகவல்கலை இறக்குமதி செய்</string>
+    <string name="install">நிறுவு</string>
+    <string name="invalid_directory">அப்படியொரு அடைவுகள் இல்லை</string>
+    <string name="invalid_source">அப்படியொரு கோப்பு இல்லை</string>
+    <string name="just_once">ஒரு முறை</string>
+    <string name="kore_not_found">Kore செயலி காணவில்லை. நிறுவலாமா\?</string>
+    <string name="light_theme_title">வெளிர்</string>
+    <string name="limit_data_usage_none_description">வரம்பற்ற</string>
+    <string name="limit_mobile_data_usage_title">மொபைல் தரவைப் பயன்படுத்தும் போது வீடியோ தரத்தைக் கட்டுப்படுத்துங்கள்</string>
+    <string name="list_thumbnail_view_description">காணொளி முன்தோற்றம்</string>
+    <string name="low_quality_smaller">குறைந்த தரம்</string>
+    <string name="main_bg_subtitle">தொடங்க \"தேடல்\" ஐ தட்டவும்</string>
+    <string name="metadata_cache_wipe_complete_notice">மேல்நிலைத் தரவு பதுக்ககம் அழிக்கப்பட்டது</string>
+    <string name="metadata_cache_wipe_summary">பதுக்ககத்திலிருக்கும் வலைப்பக்கத் தரவு அழிக்கப்பட்டது</string>
+    <string name="metadata_cache_wipe_title">மேல்நிலைத்தரவின் பதுக்ககம் அழிக்கப்பட்டது</string>
+    <string name="missing_file">கோப்பு மாற்ற அல்லது நீக்கப்பட்டது</string>
+    <string name="network_error">நெட்வொர்க் பிழை</string>
+    <string name="night_theme_title">இரவு தீம்</string>
+    <string name="no_one_watching">யாரும் பார்க்கவில்லை</string>
+    <string name="no_player_found">நிகழ்பட ஓட்டி கண்டறியப்படவில்லை. VLC நிறுவ வேண்டுமா\?</string>
+    <string name="no_player_found_toast">நிகழ்பட ஓட்டி கண்டறியப்படவில்லை (தாங்கள் VLC-ஐ பயன்படுத்தலாம்).</string>
+    <string name="no_subscribers">பின் தொடர்பவர்கள் இல்லை</string>
+    <string name="no_views">யாரும் பார்க்கவில்லை</string>
+    <string msgid="478774118347071097" name="not_set">"அமைக்கப்படவில்லை"</string>
+    <string name="notification_action_0_title">முதல் செயல் பொத்தான்</string>
+    <string name="notification_action_1_title">இரண்டாம் செயல் பொத்தான்</string>
+    <string name="notification_action_2_title">மூன்றாம் செயல் பொத்தான்</string>
+    <string name="notification_action_3_title">நான்காம் செயல் பொத்தான்</string>
+    <string name="notification_action_4_title">ஐந்தாம் செயல் பொத்தான்</string>
+    <string name="notification_action_buffering">இடையகப்படுத்துகிறது</string>
+    <string name="notification_action_nothing">ஏதுமில்லை</string>
+    <string name="notification_action_repeat">மீண்டும்</string>
+    <string name="notification_action_shuffle">கலக்கு</string>
+    <string name="notification_actions_at_most_three">சுருக்க அறிவிப்பில் காட்ட அதிகபட்சம் மூன்று செயல்களை நீங்கள் தேர்ந்தெடுக்கலாம்!</string>
+    <string name="notification_actions_summary">கீழே உள்ள ஒவ்வொரு அறிவிப்பு செயலையும் தட்டுவதன் மூலம் திருத்தவும். வலதுபுறத்தில் உள்ள தேர்வுப்பெட்டிகளைப் பயன்படுத்தி சுருக்க அறிவிப்பில் காண்பிக்க அவற்றில் மூன்று வரை தேர்ந்தெடுக்கவும்.</string>
+    <string name="notification_channel_description">NewPipe பின்னனி மற்றும் பாப்அப் இயக்கிகளின் அறிவிப்புகள்</string>
+    <string name="notification_channel_name">NewPipe அறிவிப்புகள்</string>
+    <string name="notification_colorize_summary">சிறுபடத்தில் உள்ள முக்கிய வண்ணத்திற்கு ஏற்ப அறிவிப்பின் நிறத்தை Androidஐ தனிப்பயனாக்கச் செய் (இது எல்லா சாதனங்களிலும் கிடைக்காது என்பதை குறித்துக்கொள்)</string>
+    <string name="notification_colorize_title">அறிவிப்பை வண்ணமயமாக்கு</string>
+    <string name="notification_scale_to_square_image_summary">அறிவிப்பில் காட்டப்பட்டுள்ள காணொலி சிறுவுருவத்தை 16: 9 முதல் 1: 1 அம்ச விகிதம் வரை அளவிடு (சிதைவுகளை அறிமுகப்படுத்தலாம்)</string>
+    <string name="notification_scale_to_square_image_title">சிறுவுருவத்தை 1: 1 அம்ச விகிதத்திற்கு அளவிடு</string>
+    <string name="open_in_browser">உலாவியில் திற</string>
+    <string name="open_in_popup_mode">திரைமேல் நிலையில் காட்டவும்</string>
+    <string name="open_with">இதன்மூலம் திற</string>
+    <string name="play_all">அனைத்தையும் இயக்கு</string>
+    <string name="play_audio">ஒலி</string>
+    <string name="play_with_kodi_title">Kodi கொண்டு இயக்கு</string>
+    <string name="playlists">காணொலி பட்டியல்கள்</string>
+    <string name="popup_playing_toast">திரைமேல் நிலையில் ஓடுகிறது</string>
+    <string name="popup_remember_size_pos_summary">திரைமேல் நிலையின் கடைசி அளவையும் இடத்தையும் நினைவுகொள்</string>
+    <string name="popup_remember_size_pos_title">திரைமேல் அளவையும் இடத்தையும் நினைவுகொள்</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது."</string>
+    <string name="resume_on_audio_focus_gain_summary">தொலைபேசி அழைப்பு போன்ற குறுக்கீடுகளுக்கு பிறகு தொடரவும்</string>
+    <string name="retry">மீண்டும் முயற்சி</string>
+    <string name="search">தேடு</string>
+    <string name="search_history_deleted">தேடல் வரலாறு அழிக்கப்பட்டது.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"தேடல்"</string>
+    <string name="search_no_results">முடிவுகள் இல்லை</string>
+    <string name="search_showing_result_for">%s :க்கான முடிவுகளைக் காட்டுகிறது</string>
+    <string name="seek_duration_title">வேகமாக முன்னோக்கி / திரும்பத் தேடும் காலம்</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="settings_category_appearance_title">தோற்றம்</string>
+    <string name="settings_category_clear_data_title">தரவை அழி</string>
+    <string name="settings_category_debug_title">பிழைதிருத்து</string>
+    <string name="settings_category_history_title">வரலாறு மற்றும் பதுக்ககம்</string>
+    <string name="settings_category_player_behavior_title">பண்பு</string>
+    <string name="settings_category_player_title">இயக்கி</string>
+    <string name="settings_category_updates_title">புதுப்பித்தல்கள்</string>
+    <string name="settings_category_video_audio_title">ஒலி மற்றும் காணொலி</string>
+    <string name="share">பகிர்</string>
+    <string name="share_dialog_title">இதனுடன் பகிர்</string>
+    <string name="show_age_restricted_content_title">வயது வரம்புக்கு உட்பட்டது</string>
+    <string name="show_comments_summary">கருத்துக்களை காண்பிப்பதை நிறுத்துதலை செயலிழக்கசெய்</string>
+    <string name="show_comments_title">கருத்துக்களை காண்பி</string>
+    <string name="show_description_summary">வீடியோ விளக்கம் மற்றும் கூடுதல் தகவல்களை மறைக்க அணைக்கவும்</string>
+    <string name="show_description_title">விளக்கத்தைக் காட்டு</string>
+    <string name="show_higher_resolutions_summary">சில சாதனங்கள் மட்டுமெ 2k/4k காணொளிகலை இயக்கும்</string>
+    <string name="show_higher_resolutions_title">மேம்பட்ட பிரிதிறன்களைக் காண்பி</string>
+    <string name="show_hold_to_append_title">\"சேர்ப்பதர்க்கு அழுத்தவும்\" அறிவிப்பை காண்பி</string>
+    <string name="show_info">தகவல் காண்பி</string>
+    <string name="show_meta_info_title">மேனிலை தகவல் காட்டு</string>
+    <string name="show_next_and_similar_title">\'அடுத்து\' மற்றும் \'ஒப்பான\' காணொளிகலை காண்பி</string>
+    <string name="show_play_with_kodi_summary">காணொளிகலை Kodi media center கொண்டு இயக்கும் இடப்பை காண்பி</string>
+    <string name="show_play_with_kodi_title">\"Kodi கொண்டு இயக்கு\" இடப்பை காண்பி</string>
+    <string name="show_search_suggestions_summary">தேடும்போது பரிந்துரைகளை கான்பி</string>
+    <string name="show_search_suggestions_title">ஆலோசனைகளை தேடு</string>
+    <string name="sorry_string">மன்னிக்கவும்.</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="subscribe_button_title">குழுசேர்</string>
+    <string name="subscribed_button_title">குழு சேர்க்கப்பட்டது</string>
+    <string name="subscribers_count_not_available">பின்தொடர்பவர்கள் எண்ணிக்கை இல்லை</string>
+    <string name="subscription_change_failed">குழுசேர்தலை மாற்ற இயலவில்லை</string>
+    <string name="subscription_update_failed">குழுசேர்தலை புதுப்பிக்க இயலவில்லை</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="switch_to_background">பின்னனிக்கு மாறு</string>
+    <string name="switch_to_main">முதற்பக்கத்துக்கு மாற்று</string>
+    <string name="switch_to_popup">பாப்அப் இயக்கிக்கு மாறு</string>
+    <string name="tab_about">பற்றி</string>
+    <string name="tab_bookmarks">குறிக்கப்பட்ட காணொலி பட்டியல்கள்</string>
+    <string name="tab_choose">பக்கத்தை தேர்வு செய்</string>
+    <string name="tab_subscriptions">குழுசேர்ப்புகள்</string>
+    <string name="theme_title">வார்ப்புரு</string>
+    <string name="thumbnail_cache_wipe_complete_notice">பட பதுக்ககம் அழிக்கப்பட்டது</string>
+    <string name="title_activity_about">நியூபைப் பற்றி</string>
+    <string name="title_activity_history">வரலாறு</string>
+    <string name="tracks">காணொளிக் கோப்புகள்</string>
+    <string name="trending">நடப்பு</string>
+    <string name="undo">முந்தய நிலைக்குச் செல்</string>
+    <string name="unknown_content">[அறியப்படவில்லை]</string>
+    <string name="unsubscribe">குழுவிலகு</string>
+    <string name="unsupported_url">ஆதரிக்கப்படாத URL</string>
+    <string name="upload_date_text">%1$s அன்று வெளியிடப்பட்டது</string>
+    <string name="use_external_audio_player_title">வேறு ஒலி இயக்கியை பயன்படுத்தவும்</string>
+    <string name="use_external_video_player_summary">சில பிரிதிறன்களில் ஒலி நீக்கப்படும்</string>
+    <string name="use_external_video_player_title">வேறு நிகழ்பட ஓட்டியை பயன்படுத்தவும்</string>
+    <string name="use_inexact_seek_summary">துல்லியமற்ற நாடல் குறைந்த துல்லியத்துடன் விரைவாக நாட இயக்கியை அனுமதிக்கிறது. 5, 15 அ 25 விநாடிகள் நாடுவது இதனுடன் செயல்படா.</string>
+    <string name="use_inexact_seek_title">வேகமான பொருத்தமற்ற தேடலை பயன்படுத்து</string>
+    <string name="users">பயனர்கள்</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"ஆஃப்"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"ஆன்"</string>
+    <string name="video">காணொலி</string>
+    <string name="video_streams_empty">எந்த காணொலியும் இல்லை</string>
+    <string name="volume_gesture_control_summary">Player-ன் சத்தத்தைக் கட்டுப்படுத்த செய்கையை பயன்படுத்து</string>
+    <string name="volume_gesture_control_title">சத்தக் கட்டுப்பாடு செய்கை</string>
+    <string name="watch_history_deleted">பார்த்த வரலாறு அழிக்கப்பட்டது.</string>
+    <string name="what_device_headline">தகவல்:</string>
+    <string name="what_happened_headline">என்ன நடந்தது:</string>
+    <string name="yes">ஆம்</string>
+    <string name="your_comment">உங்கள் கருத்து:</string>
+</resources>

@@ -1,0 +1,775 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:authorities
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+MERGED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Kartik\.gradle\caches\transforms-3\a900972696267b9922a6bbd16d0e4cf0\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bbf118e1b57ba6aa651074265c2f0d3\transformed\jetified-stetho-okhttp3-1.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\650778f72de2833f77cc0c8a24b59e77\transformed\jetified-stetho-1.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\11d27588d8c0ad35812cd79fe7bbafc6\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kartik\.gradle\caches\transforms-3\cb1d0dd7bb4069dff54b642ca8b7b74e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\5353babf75589c08fe935d107fc250e0\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\d88c19dfa5b7612f5010a9cc3487de10\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\7220ef87c2b70a7ef68a44861cda65ff\transformed\jetified-filepicker-4.2.1\AndroidManifest.xml:7:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\2cec46c69106b559d4953337b1c42d11\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\211246419412fcc0940baa876886bd15\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\b5a64de0349b00addca3f9501018ba41\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Kartik\.gradle\caches\transforms-3\6c4ecbfd5fc01b35f50756b1b1e2fcb8\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\96d0773c5812117c5d99e836a226acf6\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\245d48ed35543dda3d97f55f674332b1\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e3a440bfec18af837971be0934c5ef68\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\5cd239a5fa9d3abe87290dcdf9afe1d9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\02b274b928479cca41eee1614a3e3f8b\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bab782121a8e9649b3e566e14a27712\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\96171dd19f1e33ad20ca556d14003cad\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\6addbac782531454c70f7728e0a5da43\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\5eaa3fd97c944c5baad15f1af435a7e5\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Kartik\.gradle\caches\transforms-3\e73c195254d77ef13fce8e79c3dcfdd4\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\8980593091a352663a8679ae37285f4c\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\394530e40ff0ef604fa89c711b1aff8b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\ea425dd6ed25fa15f2204d16afda38ce\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\36a66a57420221144932efe82ad08480\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\fecfa86b46e983a03c01776381315c6b\transformed\jetified-extension-mediasession-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\18925951172fc7bdcac7afad2603dc43\transformed\jetified-exoplayer-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\ccbf521b29b1d823102ad44d7bc1de93\transformed\jetified-exoplayer-ui-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.lisawray.groupie:groupie:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\4418a9640c3ea2e8c209f3c48755f6cf\transformed\jetified-groupie-2.8.1\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\67c3c4582fce0a7027cc270b5b66fc8b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-rxjava3:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\43e05ac4c8f5cebf1c4475bfbd3e241a\transformed\jetified-room-rxjava3-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\c973edf8cfeb3e413046dbac20028940\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\Kartik\.gradle\caches\transforms-3\3e818fc61b242e0a891fb6984b512daf\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.lisawray.groupie:groupie-viewbinding:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\004dcbd8d44c27e0e3a8953c7faf09bc\transformed\jetified-groupie-viewbinding-2.8.1\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\36f23571f4415d45e0d872bf3d749326\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.noties.markwon:linkify:4.6.2] C:\Users\Kartik\.gradle\caches\transforms-3\e99e4161eb694d4888b1d279e66b7f56\transformed\jetified-linkify-4.6.2\AndroidManifest.xml:2:1-11:12
+MERGED from [io.noties.markwon:core:4.6.2] C:\Users\Kartik\.gradle\caches\transforms-3\0de8ed7ec3495f8c6e965cc503f3132e\transformed\jetified-core-4.6.2\AndroidManifest.xml:2:1-11:12
+MERGED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:17:1-48:12
+MERGED from [com.jakewharton.rxbinding4:rxbinding:4.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\0ae630ecfe256537a1158ed87a834d26\transformed\jetified-rxbinding-4.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\c1b474188d0bbe38ff3030b73df2da62\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:17:1-75:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\e333a442d863b4cd804d1deb54fe42c8\transformed\jetified-leakcanary-object-watcher-android-androidx-2.5\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b001a2a52f1afac9f8ceebde820ce965\transformed\jetified-leakcanary-object-watcher-android-support-fragments-2.5\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:2:1-15:12
+MERGED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\c8ea5d8b34b05dc403f3cd411c60f894\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\b9e58ae6c99607746f04f74cc490ec01\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d38a2034711a759f45cc6adfb0ef9c6d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\e227912a225396dc723d1e7113b274bb\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\b5cec9cf53c4a4df446f25e1440c2ed5\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\7d8e2db0b8994eb652637c0345503da4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d1e34ff451c47d0cb76febd606c30923\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\5239f242117b267869968db9afc97c55\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\b6aa19742877440c91cf1886a76aace8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\f6d850a3953455c545dae4e770c2afdc\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\6262790250fcb78bd0049c41c5418da1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\e4ef5ed73b7b276d1514a63c2e7695ed\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\3c8bd4ac543b8c973d087c1a7c2a63a4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\1f614967f3924d38991a21dff3cc7f79\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\cf380225cf66021a05976d9dbad8580a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\ad7ad43f379be9cafaac77a26db65ba5\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\1437f11fb6f078b971e63868e7a4f41f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\08f797c5249dd50f2d014e5ec1b9eae3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\ccd3f75f237ab71919055c8b84d8c9fd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\72fe18d9c965eed1f97153f85afdbda8\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\a4225e5496a40833692023919f6b3c74\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ee2f507183ace491d313cb23271cc95f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\4badd2425e1980b6cbe8a7458751fd8c\transformed\jetified-exoplayer-dash-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\88fecb49d0456a3b23a4386079c5b725\transformed\jetified-exoplayer-hls-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\3b10d9bf3c33e1dad1ed65a2f30319b6\transformed\jetified-exoplayer-smoothstreaming-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\bc342519f26e3d2ab1601742917b4410\transformed\jetified-exoplayer-core-2.12.3\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\173065cd3b79c4923473291ac051dd74\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\b5c3945bf7df3eff0da37e6873ee2388\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\db6b303cf78e67bad6abdc3c3bc283f4\transformed\jetified-exoplayer-extractor-2.12.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\1f045eabaf4fe7c55c8fd5d7cd7a593a\transformed\jetified-exoplayer-common-2.12.3\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\1b03245c6b624b2115a7c61c398b6bb4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\23d32642aadb831a9b70b0a6dd18d25e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml:2:1-10:12
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:1-370:12
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:5:5-35
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\bc342519f26e3d2ab1601742917b4410\transformed\jetified-exoplayer-core-2.12.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\bc342519f26e3d2ab1601742917b4410\transformed\jetified-exoplayer-core-2.12.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\1f045eabaf4fe7c55c8fd5d7cd7a593a\transformed\jetified-exoplayer-common-2.12.3\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\1f045eabaf4fe7c55c8fd5d7cd7a593a\transformed\jetified-exoplayer-common-2.12.3\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:24:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:12:5-77
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:26:5-77
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:12:22-74
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:15:9-52
+application
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:18:5-369:19
+MERGED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:18:5-369:19
+MERGED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:18:5-369:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bbf118e1b57ba6aa651074265c2f0d3\transformed\jetified-stetho-okhttp3-1.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bbf118e1b57ba6aa651074265c2f0d3\transformed\jetified-stetho-okhttp3-1.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\650778f72de2833f77cc0c8a24b59e77\transformed\jetified-stetho-1.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\650778f72de2833f77cc0c8a24b59e77\transformed\jetified-stetho-1.6.0\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kartik\.gradle\caches\transforms-3\cb1d0dd7bb4069dff54b642ca8b7b74e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kartik\.gradle\caches\transforms-3\cb1d0dd7bb4069dff54b642ca8b7b74e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\d88c19dfa5b7612f5010a9cc3487de10\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\d88c19dfa5b7612f5010a9cc3487de10\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\7220ef87c2b70a7ef68a44861cda65ff\transformed\jetified-filepicker-4.2.1\AndroidManifest.xml:17:5-20
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\7220ef87c2b70a7ef68a44861cda65ff\transformed\jetified-filepicker-4.2.1\AndroidManifest.xml:17:5-20
+MERGED from [com.github.lisawray.groupie:groupie:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\4418a9640c3ea2e8c209f3c48755f6cf\transformed\jetified-groupie-2.8.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.lisawray.groupie:groupie:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\4418a9640c3ea2e8c209f3c48755f6cf\transformed\jetified-groupie-2.8.1\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.lisawray.groupie:groupie-viewbinding:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\004dcbd8d44c27e0e3a8953c7faf09bc\transformed\jetified-groupie-viewbinding-2.8.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.lisawray.groupie:groupie-viewbinding:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\004dcbd8d44c27e0e3a8953c7faf09bc\transformed\jetified-groupie-viewbinding-2.8.1\AndroidManifest.xml:11:5-12:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\36f23571f4415d45e0d872bf3d749326\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\36f23571f4415d45e0d872bf3d749326\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:26:5-46:19
+MERGED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:28:5-73:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:28:5-73:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:7:5-13:19
+MERGED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:7:5-13:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\ccd3f75f237ab71919055c8b84d8c9fd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\ccd3f75f237ab71919055c8b84d8c9fd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:23:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:26:9-42
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:26:9-42
+	tools:ignore
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:27:9-35
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:20:9-35
+	android:banner
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:21:9-51
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:21:9-51
+	android:theme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:25:9-44
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:25:9-44
+	tools:replace
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml:9:9-37
+	android:logo
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:24:9-43
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:24:9-43
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:19:9-28
+		REJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:19:9-28
+activity#org.schabi.newpipe.MainActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:28:9-38:20
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:30:13-45
+	android:launchMode
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:32:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:35:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:36:17-86
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:36:27-83
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:40:9-44:20
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:40:19-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:41:13-43:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:42:25-74
+service#org.schabi.newpipe.player.MainPlayer
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:48:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:49:13-58
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:47:13-46
+activity#org.schabi.newpipe.player.PlayQueueActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:55:9-58:47
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:57:13-62
+	android:launchMode
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:56:13-53
+activity#org.schabi.newpipe.settings.SettingsActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:60:9-62:48
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:61:13-54
+activity#org.schabi.newpipe.about.AboutActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:64:9-66:60
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:66:13-57
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:65:13-48
+service#org.schabi.newpipe.local.subscription.services.SubscriptionsImportService
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:68:9-91
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:68:18-88
+service#org.schabi.newpipe.local.subscription.services.SubscriptionsExportService
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:69:9-91
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:69:18-88
+service#org.schabi.newpipe.local.feed.service.FeedLoadService
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:70:9-71
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:70:18-68
+activity#org.schabi.newpipe.PanicResponderActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:72:9-82:20
+	android:launchMode
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:74:13-48
+	android:noHistory
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:75:13-37
+	android:theme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:76:13-59
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:73:13-51
+intent-filter#action:name:info.guardianproject.panic.action.TRIGGER+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:77:13-81:29
+action#info.guardianproject.panic.action.TRIGGER
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:78:17-84
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:78:25-81
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:17-76
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:80:27-73
+activity#org.schabi.newpipe.ExitActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:84:9-87:62
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:86:13-50
+	android:theme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:87:13-59
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:85:13-41
+activity#org.schabi.newpipe.error.ErrorActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:88:9-57
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:88:19-54
+activity#org.schabi.newpipe.download.DownloadActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:91:9-94:47
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:93:13-45
+	android:launchMode
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:92:13-54
+service#us.shandian.giga.service.DownloadManagerService
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:96:9-83
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:96:18-80
+activity#org.schabi.newpipe.util.FilePickerActivityHelper
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:98:9-106:20
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:100:13-45
+	android:theme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:101:13-55
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:99:13-58
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:102:13-105:29
+action#android.intent.action.GET_CONTENT
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:103:17-76
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:103:25-73
+activity#org.schabi.newpipe.error.ReCaptchaActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:108:9-110:49
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:110:13-46
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:109:13-52
+activity#org.schabi.newpipe.RouterActivity
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:122:9-357:20
+	android:label
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:125:13-75
+	android:excludeFromRecents
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:124:13-46
+	android:theme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:127:13-59
+	android:taskAffinity
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:126:13-36
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:123:13-43
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.youtube.com+data:host:music.youtube.com+data:host:www.youtube.com+data:host:youtube.com+data:pathPrefix:/attribution_link+data:pathPrefix:/c/+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/playlist+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:130:13-155:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:17-69
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:131:25-66
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:17-86
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:132:25-83
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:17-77
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:133:25-74
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:17-78
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:136:27-75
+data
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:17-47
+	android:scheme
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:138:23-44
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:youtu.be+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:156:13-168:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.youtube-nocookie.com+data:pathPrefix:/embed/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:169:13-181:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:vnd.youtube+data:scheme:vnd.youtube.launch
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:182:13-192:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.hooktube.com+data:host:hooktube.com+data:pathPrefix:/channel/+data:pathPrefix:/embed/+data:pathPrefix:/user/+data:pathPrefix:/v/+data:pathPrefix:/watch+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:195:13-214:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:dev.invidio.us+data:host:inv.riverside.rocks+data:host:invidio.us+data:host:invidiou.site+data:host:invidious-us.kavin.rocks+data:host:invidious.048596.xyz+data:host:invidious.blamefran.net+data:host:invidious.exonip.de+data:host:invidious.fdn.fr+data:host:invidious.kavin.rocks+data:host:invidious.moomoo.me+data:host:invidious.namazso.eu+data:host:invidious.silkky.cloud+data:host:invidious.site+data:host:invidious.snopyta.org+data:host:invidious.zee.li+data:host:piped.kavin.rocks+data:host:redirect.invidious.io+data:host:tube.connect.cafe+data:host:vid.mint.lgbt+data:host:vid.puffyan.us+data:host:www.invidio.us+data:host:y.com.cm+data:host:yewtu.be+data:host:yt.cyberhost.uk+data:host:ytb.trom.tf+data:host:ytprivate.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:217:13-255:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:m.soundcloud.com+data:host:soundcloud.com+data:host:www.soundcloud.com+data:pathPrefix:/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:258:13-272:29
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:275:13-279:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:276:17-69
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:276:25-66
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:media.ccc.de+data:pathPrefix:/b/+data:pathPrefix:/c/+data:pathPrefix:/v/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:282:13-298:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:framatube.org+data:host:media.assassinate-you.net+data:host:peertube.co.uk+data:host:peertube.cpy.re+data:host:peertube.fr+data:host:peertube.mastodon.host+data:host:skeptikon.fr+data:host:tilvids.com+data:host:tube.privacytools.io+data:host:video.lqdn.fr+data:host:video.ploud.fr+data:pathPrefix:/accounts/+data:pathPrefix:/video-channels/+data:pathPrefix:/videos/+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:301:13-327:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*.bandcamp.com+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:330:13-341:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:http+data:scheme:https
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:344:13-355:29
+service#org.schabi.newpipe.RouterActivity$FetcherService
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:358:9-360:40
+	android:exported
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:360:13-37
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:359:13-58
+meta-data#android.webkit.WebView.MetricsOptOut
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:363:9-95
+	android:value
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:363:72-92
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:363:20-71
+meta-data#com.samsung.android.keepalive.density
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:366:9-95
+	android:value
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:366:73-93
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:366:20-72
+meta-data#com.samsung.android.multidisplay.keep_process_alive
+ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:368:9-109
+	android:value
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:368:87-107
+	android:name
+		ADDED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml:368:20-86
+uses-sdk
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Kartik\.gradle\caches\transforms-3\a900972696267b9922a6bbd16d0e4cf0\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Kartik\.gradle\caches\transforms-3\a900972696267b9922a6bbd16d0e4cf0\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bbf118e1b57ba6aa651074265c2f0d3\transformed\jetified-stetho-okhttp3-1.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bbf118e1b57ba6aa651074265c2f0d3\transformed\jetified-stetho-okhttp3-1.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\650778f72de2833f77cc0c8a24b59e77\transformed\jetified-stetho-1.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\650778f72de2833f77cc0c8a24b59e77\transformed\jetified-stetho-1.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\11d27588d8c0ad35812cd79fe7bbafc6\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\11d27588d8c0ad35812cd79fe7bbafc6\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kartik\.gradle\caches\transforms-3\cb1d0dd7bb4069dff54b642ca8b7b74e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Kartik\.gradle\caches\transforms-3\cb1d0dd7bb4069dff54b642ca8b7b74e\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\5353babf75589c08fe935d107fc250e0\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\5353babf75589c08fe935d107fc250e0\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\d88c19dfa5b7612f5010a9cc3487de10\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\d88c19dfa5b7612f5010a9cc3487de10\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\7220ef87c2b70a7ef68a44861cda65ff\transformed\jetified-filepicker-4.2.1\AndroidManifest.xml:13:5-15:41
+MERGED from [com.nononsenseapps:filepicker:4.2.1] C:\Users\Kartik\.gradle\caches\transforms-3\7220ef87c2b70a7ef68a44861cda65ff\transformed\jetified-filepicker-4.2.1\AndroidManifest.xml:13:5-15:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\2cec46c69106b559d4953337b1c42d11\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\2cec46c69106b559d4953337b1c42d11\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\211246419412fcc0940baa876886bd15\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\211246419412fcc0940baa876886bd15\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\b5a64de0349b00addca3f9501018ba41\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\b5a64de0349b00addca3f9501018ba41\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Kartik\.gradle\caches\transforms-3\6c4ecbfd5fc01b35f50756b1b1e2fcb8\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] C:\Users\Kartik\.gradle\caches\transforms-3\6c4ecbfd5fc01b35f50756b1b1e2fcb8\transformed\jetified-activity-ktx-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\96d0773c5812117c5d99e836a226acf6\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\96d0773c5812117c5d99e836a226acf6\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\245d48ed35543dda3d97f55f674332b1\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\245d48ed35543dda3d97f55f674332b1\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e3a440bfec18af837971be0934c5ef68\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\e3a440bfec18af837971be0934c5ef68\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\5cd239a5fa9d3abe87290dcdf9afe1d9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\5cd239a5fa9d3abe87290dcdf9afe1d9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\02b274b928479cca41eee1614a3e3f8b\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Kartik\.gradle\caches\transforms-3\02b274b928479cca41eee1614a3e3f8b\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bab782121a8e9649b3e566e14a27712\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\3bab782121a8e9649b3e566e14a27712\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\96171dd19f1e33ad20ca556d14003cad\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Kartik\.gradle\caches\transforms-3\96171dd19f1e33ad20ca556d14003cad\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\6addbac782531454c70f7728e0a5da43\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\6addbac782531454c70f7728e0a5da43\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\5eaa3fd97c944c5baad15f1af435a7e5\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\5eaa3fd97c944c5baad15f1af435a7e5\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Kartik\.gradle\caches\transforms-3\e73c195254d77ef13fce8e79c3dcfdd4\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Kartik\.gradle\caches\transforms-3\e73c195254d77ef13fce8e79c3dcfdd4\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\8980593091a352663a8679ae37285f4c\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\8980593091a352663a8679ae37285f4c\transformed\jetified-lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\394530e40ff0ef604fa89c711b1aff8b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\394530e40ff0ef604fa89c711b1aff8b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\ea425dd6ed25fa15f2204d16afda38ce\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\ea425dd6ed25fa15f2204d16afda38ce\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\36a66a57420221144932efe82ad08480\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\36a66a57420221144932efe82ad08480\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\fecfa86b46e983a03c01776381315c6b\transformed\jetified-extension-mediasession-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\fecfa86b46e983a03c01776381315c6b\transformed\jetified-extension-mediasession-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\18925951172fc7bdcac7afad2603dc43\transformed\jetified-exoplayer-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\18925951172fc7bdcac7afad2603dc43\transformed\jetified-exoplayer-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\ccbf521b29b1d823102ad44d7bc1de93\transformed\jetified-exoplayer-ui-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\ccbf521b29b1d823102ad44d7bc1de93\transformed\jetified-exoplayer-ui-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.lisawray.groupie:groupie:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\4418a9640c3ea2e8c209f3c48755f6cf\transformed\jetified-groupie-2.8.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lisawray.groupie:groupie:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\4418a9640c3ea2e8c209f3c48755f6cf\transformed\jetified-groupie-2.8.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\67c3c4582fce0a7027cc270b5b66fc8b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\67c3c4582fce0a7027cc270b5b66fc8b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava3:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\43e05ac4c8f5cebf1c4475bfbd3e241a\transformed\jetified-room-rxjava3-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava3:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\43e05ac4c8f5cebf1c4475bfbd3e241a\transformed\jetified-room-rxjava3-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\c973edf8cfeb3e413046dbac20028940\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\c973edf8cfeb3e413046dbac20028940\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\Kartik\.gradle\caches\transforms-3\3e818fc61b242e0a891fb6984b512daf\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\Kartik\.gradle\caches\transforms-3\3e818fc61b242e0a891fb6984b512daf\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [com.github.lisawray.groupie:groupie-viewbinding:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\004dcbd8d44c27e0e3a8953c7faf09bc\transformed\jetified-groupie-viewbinding-2.8.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lisawray.groupie:groupie-viewbinding:2.8.1] C:\Users\Kartik\.gradle\caches\transforms-3\004dcbd8d44c27e0e3a8953c7faf09bc\transformed\jetified-groupie-viewbinding-2.8.1\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\36f23571f4415d45e0d872bf3d749326\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\36f23571f4415d45e0d872bf3d749326\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [io.noties.markwon:linkify:4.6.2] C:\Users\Kartik\.gradle\caches\transforms-3\e99e4161eb694d4888b1d279e66b7f56\transformed\jetified-linkify-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:linkify:4.6.2] C:\Users\Kartik\.gradle\caches\transforms-3\e99e4161eb694d4888b1d279e66b7f56\transformed\jetified-linkify-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:core:4.6.2] C:\Users\Kartik\.gradle\caches\transforms-3\0de8ed7ec3495f8c6e965cc503f3132e\transformed\jetified-core-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:core:4.6.2] C:\Users\Kartik\.gradle\caches\transforms-3\0de8ed7ec3495f8c6e965cc503f3132e\transformed\jetified-core-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:22:5-24:41
+MERGED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.jakewharton.rxbinding4:rxbinding:4.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\0ae630ecfe256537a1158ed87a834d26\transformed\jetified-rxbinding-4.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.rxbinding4:rxbinding:4.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\0ae630ecfe256537a1158ed87a834d26\transformed\jetified-rxbinding-4.0.0\AndroidManifest.xml:5:5-44
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\c1b474188d0bbe38ff3030b73df2da62\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\c1b474188d0bbe38ff3030b73df2da62\transformed\jetified-rxandroid-3.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\e333a442d863b4cd804d1deb54fe42c8\transformed\jetified-leakcanary-object-watcher-android-androidx-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-androidx:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\e333a442d863b4cd804d1deb54fe42c8\transformed\jetified-leakcanary-object-watcher-android-androidx-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b001a2a52f1afac9f8ceebde820ce965\transformed\jetified-leakcanary-object-watcher-android-support-fragments-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android-support-fragments:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b001a2a52f1afac9f8ceebde820ce965\transformed\jetified-leakcanary-object-watcher-android-support-fragments-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\c8ea5d8b34b05dc403f3cd411c60f894\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\c8ea5d8b34b05dc403f3cd411c60f894\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\b9e58ae6c99607746f04f74cc490ec01\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\b9e58ae6c99607746f04f74cc490ec01\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d38a2034711a759f45cc6adfb0ef9c6d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d38a2034711a759f45cc6adfb0ef9c6d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\e227912a225396dc723d1e7113b274bb\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\e227912a225396dc723d1e7113b274bb\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\b5cec9cf53c4a4df446f25e1440c2ed5\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\b5cec9cf53c4a4df446f25e1440c2ed5\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\7d8e2db0b8994eb652637c0345503da4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\7d8e2db0b8994eb652637c0345503da4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d1e34ff451c47d0cb76febd606c30923\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\d1e34ff451c47d0cb76febd606c30923\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\5239f242117b267869968db9afc97c55\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\5239f242117b267869968db9afc97c55\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\b6aa19742877440c91cf1886a76aace8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\b6aa19742877440c91cf1886a76aace8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\f6d850a3953455c545dae4e770c2afdc\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Kartik\.gradle\caches\transforms-3\f6d850a3953455c545dae4e770c2afdc\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\6262790250fcb78bd0049c41c5418da1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\6262790250fcb78bd0049c41c5418da1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\e4ef5ed73b7b276d1514a63c2e7695ed\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\e4ef5ed73b7b276d1514a63c2e7695ed\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\3c8bd4ac543b8c973d087c1a7c2a63a4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\3c8bd4ac543b8c973d087c1a7c2a63a4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Kartik\.gradle\caches\transforms-3\c12f6f054d518f1db4e8f97d8b55ab81\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\1f614967f3924d38991a21dff3cc7f79\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\1f614967f3924d38991a21dff3cc7f79\transformed\jetified-lifecycle-runtime-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\cf380225cf66021a05976d9dbad8580a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\cf380225cf66021a05976d9dbad8580a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\ad7ad43f379be9cafaac77a26db65ba5\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\ad7ad43f379be9cafaac77a26db65ba5\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\1437f11fb6f078b971e63868e7a4f41f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\1437f11fb6f078b971e63868e7a4f41f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\08f797c5249dd50f2d014e5ec1b9eae3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\08f797c5249dd50f2d014e5ec1b9eae3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\ccd3f75f237ab71919055c8b84d8c9fd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Kartik\.gradle\caches\transforms-3\ccd3f75f237ab71919055c8b84d8c9fd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\72fe18d9c965eed1f97153f85afdbda8\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\72fe18d9c965eed1f97153f85afdbda8\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\a4225e5496a40833692023919f6b3c74\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\a4225e5496a40833692023919f6b3c74\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ee2f507183ace491d313cb23271cc95f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\ee2f507183ace491d313cb23271cc95f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\4badd2425e1980b6cbe8a7458751fd8c\transformed\jetified-exoplayer-dash-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\4badd2425e1980b6cbe8a7458751fd8c\transformed\jetified-exoplayer-dash-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\88fecb49d0456a3b23a4386079c5b725\transformed\jetified-exoplayer-hls-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\88fecb49d0456a3b23a4386079c5b725\transformed\jetified-exoplayer-hls-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\3b10d9bf3c33e1dad1ed65a2f30319b6\transformed\jetified-exoplayer-smoothstreaming-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\3b10d9bf3c33e1dad1ed65a2f30319b6\transformed\jetified-exoplayer-smoothstreaming-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\bc342519f26e3d2ab1601742917b4410\transformed\jetified-exoplayer-core-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\bc342519f26e3d2ab1601742917b4410\transformed\jetified-exoplayer-core-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\173065cd3b79c4923473291ac051dd74\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\173065cd3b79c4923473291ac051dd74\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\b5c3945bf7df3eff0da37e6873ee2388\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\b5c3945bf7df3eff0da37e6873ee2388\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\db6b303cf78e67bad6abdc3c3bc283f4\transformed\jetified-exoplayer-extractor-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\db6b303cf78e67bad6abdc3c3bc283f4\transformed\jetified-exoplayer-extractor-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\1f045eabaf4fe7c55c8fd5d7cd7a593a\transformed\jetified-exoplayer-common-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.3] C:\Users\Kartik\.gradle\caches\transforms-3\1f045eabaf4fe7c55c8fd5d7cd7a593a\transformed\jetified-exoplayer-common-2.12.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\1b03245c6b624b2115a7c61c398b6bb4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kartik\.gradle\caches\transforms-3\1b03245c6b624b2115a7c61c398b6bb4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\23d32642aadb831a9b70b0a6dd18d25e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Kartik\.gradle\caches\transforms-3\23d32642aadb831a9b70b0a6dd18d25e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kartik\AndroidStudioProjects\NewPipe\app\src\debug\AndroidManifest.xml
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\cc0d144071cb116cc2e7f8cdaf68893f\transformed\jetified-leakcanary-android-2.5\AndroidManifest.xml:24:13-67
+queries
+ADDED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media:media:1.3.1] C:\Users\Kartik\.gradle\caches\transforms-3\78a5c0dd4ae34576128a433812d10f6e\transformed\media-1.3.1\AndroidManifest.xml:26:21-76
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\Kartik\.gradle\caches\transforms-3\e92f35c693147fc1e7031de51d2804c0\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\Kartik\.gradle\caches\transforms-3\de70502ad57db2d4827ee7e55a875fd6\transformed\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+service#org.acra.sender.LegacySenderService
+ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:27:9-31:39
+	android:process
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:31:13-36
+	android:enabled
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:29:13-63
+	android:exported
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:28:13-63
+service#org.acra.sender.JobSenderService
+ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:32:9-37:39
+	android:process
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:37:13-36
+	android:enabled
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:34:13-60
+	android:exported
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:33:13-60
+provider#org.acra.attachment.AcraContentProvider
+ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:39:9-45:51
+	android:process
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:44:13-36
+	android:grantUriPermissions
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:43:13-47
+	android:authorities
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:41:13-56
+	android:exported
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:42:13-37
+	tools:replace
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from [ch.acra:acra-core:5.7.0] C:\Users\Kartik\.gradle\caches\transforms-3\e621fae315a22cecb0d75c419c3475de\transformed\jetified-acra-core-5.7.0\AndroidManifest.xml:40:13-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:23:22-77
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:30:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:35:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:46:9-62:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:49:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:51:13-71
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:52:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:50:13-52
+	android:banner
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:48:13-59
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:54:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:53:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:47:13-77
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:64:9-70:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:68:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:66:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:67:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:70:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:69:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:65:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:72:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\62dbcad9be5bb72243d539134f72069f\transformed\jetified-leakcanary-android-core-2.5\AndroidManifest.xml:72:19-74
+provider#leakcanary.internal.AppWatcherInstaller$MainProcess
+ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-object-watcher-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\b1c5c4869ba716953d085c872b9a86ae\transformed\jetified-leakcanary-object-watcher-android-2.5\AndroidManifest.xml:9:13-79
+provider#leakcanary.internal.PlumberInstaller
+ADDED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:8:9-12:40
+	android:enabled
+		ADDED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:11:13-69
+	android:authorities
+		ADDED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:10:13-69
+	android:exported
+		ADDED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:plumber-android:2.5] C:\Users\Kartik\.gradle\caches\transforms-3\524ccd21e013d9c655a6d0a4e8b4b043\transformed\jetified-plumber-android-2.5\AndroidManifest.xml:9:13-64

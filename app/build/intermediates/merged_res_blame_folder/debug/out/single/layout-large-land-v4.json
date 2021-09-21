@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-large-land-v4\\fragment_video_detail.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout-large-land\\fragment_video_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-large-land-v4\\player.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout-large-land\\player.xml"
+    }
+]

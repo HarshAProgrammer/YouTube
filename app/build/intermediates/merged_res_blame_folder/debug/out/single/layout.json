@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_stream_playlist_grid_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_stream_playlist_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_playlist.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_playlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\missions_header.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\missions_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mission_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\mission_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_metadata_tags.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\item_metadata_tags.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_playlist_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_software_component.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\item_software_component.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\player_popup_close_overlay.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\player_popup_close_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_channel_grid_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_channel_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_empty.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_choose_tabs_dialog.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_choose_tabs_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_search_suggestion.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\item_search_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_feed_group_create.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\dialog_feed_group_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings_notification.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\settings_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_channel_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_channel_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\download_dialog.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\download_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_subscription.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_subscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\feed_group_add_new_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\feed_group_add_new_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_with_menu_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\header_with_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\select_channel_fragment.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\select_channel_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_downloader.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\activity_downloader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_player_queue_control.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\activity_player_queue_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\missions.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\missions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_instance_list.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_instance_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\channel_header.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\channel_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_instance.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\item_instance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subscription_import_export_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\subscription_import_export_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_comments_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_comments_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_import.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_feed_group_reorder.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\dialog_feed_group_reorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_channel_mini_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_channel_mini_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bookmarks.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_bookmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\picker_icon_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\picker_icon_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_edit_text.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\dialog_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\player.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_comments.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_stream_playlist_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_stream_playlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_title.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\dialog_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\local_playlist_header.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\local_playlist_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_error.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\activity_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\playlist_header.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\playlist_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\instance_spinner_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\instance_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\related_items_header.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\related_items_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_stream_segment.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\item_stream_segment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_playlists.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\dialog_playlists.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\feed_group_card_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\feed_group_card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\drawer_layout.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\drawer_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_playlist_grid_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_playlist_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\drawer_header.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\select_kiosk_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\select_kiosk_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_stream_grid_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_stream_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\picker_subscription_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\picker_subscription_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings_layout.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\settings_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_video_detail.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_video_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_stream_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_stream_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_playback_parameter.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\dialog_playback_parameter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\instance_spinner_layout.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\instance_spinner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_comments_mini_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_comments_mini_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_licenses.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_licenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings_category_header_title.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\settings_category_header_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_choose_tabs.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_choose_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\playlist_control.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\playlist_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\select_channel_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\select_channel_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\stream_quality_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\stream_quality_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\select_playlist_fragment.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\select_playlist_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\feed_item_carousel.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\feed_item_carousel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_empty_view.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pignate_footer.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\pignate_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings_category_header_layout.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\settings_category_header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recaptcha.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\activity_recaptcha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\play_queue_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\play_queue_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_metadata.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\item_metadata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_search_layout.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\toolbar_search_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_feed.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\error_panel.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\error_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_radio_icon_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_radio_icon_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_layout.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\settings_notification_action.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\settings_notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mission_item_linear.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\mission_item_linear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_channel.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_channel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_stream_mini_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_stream_mini_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\statistic_playlist_control.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\statistic_playlist_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_choose_tabs.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_choose_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\feed_import_export_group.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\feed_import_export_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\feed_group_reorder_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\feed_group_reorder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_playlist_mini_item.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\list_playlist_mini_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\select_kiosk_fragment.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\select_kiosk_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_related_items.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_related_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_bg.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\main_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chip.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_description.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\single_choice_dialog_view.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\single_choice_dialog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_kiosk.xml",
+        "source": "C:\\Users\\Kartik\\AndroidStudioProjects\\NewPipe\\app\\src\\main\\res\\layout\\fragment_kiosk.xml"
+    }
+]
